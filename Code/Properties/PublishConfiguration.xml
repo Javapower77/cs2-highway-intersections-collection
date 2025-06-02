@@ -1,0 +1,53 @@
+<Publish>
+  <ModId Value="112028" />
+  <DisplayName Value="Intersections Collection" />
+  <ShortDescription Value="A set of highway and railroad intersections" />
+  <LongDescription>## Description
+This asset pack add several highway roads and railroad intersections to use in your map.
+
+## Added Assets
+* **4-Exit-2-TwoWay-Railroad** Railroad intersection with 4 exits each one with 2 two-way track.
+
+## NOTE
+This mod is not final version. Still keep working on it and make improvements.
+Mostly of assets in this mod are a compilation of another mods, where some of them were prepared to use in conjuntion with ControlC mod and Mio Road Assets.
+I had transformed and updated the intersections to be used as an assets from the RoadExchange group in the game.
+Some roads are made with Road Builder mod, so it is necesary to have that mod also instaled in your game.
+
+## SPECIAL THANKS
+I would like to thanks a lot for the patience on answering my question in order to keep learning on modding CS2 to the people on the Cities Skyline Modding Discord Server.
+* krzychu124
+* Bruceyboy24804
+* StarQ / Qoushik
+* TDW
+* yenyang
+* Tigon Ologdring
+... to mention some of them!
+
+## DISCLAIMER
+* Safe to remove. This mod will not break your save if removed. However the assets will no longer work.
+* This mod may require ***Asset Packs Manager*** which is highly experimental. This mod shouldn't break the save game. But subscribing to assets that require this without the dependency will pop up errors. Worst case you'll get error popups on game load and/or grey boxes in save. But either way, YOU ARE RESPONSIBLE for any damage.</LongDescription>
+  <Thumbnail Value="Code/Properties/Thumbnail.png" />
+  <!--
+  <Screenshot Value="Code/Properties/Previews/ConvenienceFoodFactory.jpg" />
+  <Screenshot Value="Code/Properties/Previews/ConvenienceFoodFactory2.jpg" />
+  <Screenshot Value="Code/Properties/Previews/CargoTrain.jpg" />
+  <Screenshot Value="Code/Properties/Previews/CargoTrainUpdates.jpg" /> -->
+  <Tag Value="Code Mod" />
+  <ModVersion Value="1.00.0" />
+  <GameVersion Value="1.2.5f1" />
+  <!-- Asset Packs Manager -->
+  <Dependency Id="78903" />
+  <!-- I18n EveryWhere -->
+  <Dependency Id="75426" />
+  <!-- Asset Icon Library -->
+  <Dependency Id="79634" />
+  <!-- Road Builder -->
+  <Dependency Id="87190" />
+  <ChangeLog>## Patch 1.00
+* First release with 1 railroad intersection.
+* Still not final version, working in adding more intersection assets.</ChangeLog>
+  <ExternalLink Type="discord" Url="https://discord.gg/UkKAfRqfCn" />
+  <ExternalLink Type="github" Url="https://github.com/Javapower77/cs2-industries-extended" />
+  <ForumLink Value="https://forum.paradoxplaza.com/forum/threads/intersections-collection.1764052/" />
+</Publish>

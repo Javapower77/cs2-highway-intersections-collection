@@ -1,0 +1,169 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<OutputType>Library</OutputType>
+		<TargetFramework>net472</TargetFramework>
+		<Configurations>Debug;Release</Configurations>
+		<LangVersion>latest</LangVersion>
+
+		<!--The folder where Game.dll is located. Set it only if the game is not installed in the default location, otherwise keep it empty-->
+		<CustomManagedPath></CustomManagedPath>
+
+		<!--Path to the text file where PDX account data is stored which is required to publish the mod-->
+		<!--Keep it outside of project in order to not commit it or share accidentally-->
+		<!--The file should contain 2 lines:-->
+		<!--Your.PDX@Account.login-->
+		<!--Your-PDX-Account-Pa$$word-->
+		<PDXAccountDataPath>$(USERPROFILE)\pdx_account.txt</PDXAccountDataPath>
+
+		<!--The file where mod information which is required for publishing mod on PDX mods are stored-->
+		<PublishConfigurationPath>Code\Properties\PublishConfiguration.xml</PublishConfigurationPath>
+
+		<!-- Others configurations -->
+		<AdditionalFilesDirectory>Resources</AdditionalFilesDirectory>
+		<AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+
+		<!-- Mod information -->
+		<AssemblyVersion>1.00.0</AssemblyVersion>
+		<FileVersion>1.00.0</FileVersion>
+		<Version>1.00.0</Version>
+		<NeutralLanguage>en</NeutralLanguage>
+		<RepositoryUrl>https://github.com/Javapower77/cs2-industries-extended</RepositoryUrl>
+		<PackageProjectUrl>https://github.com/Javapower77/cs2-industries-extended</PackageProjectUrl>
+		<Copyright>(c) 2025, Javapower.</Copyright>
+		<Product>Intersections Collection Mod for Cities Skyline 2</Product>
+		<Authors>Javapower</Authors>
+		<Company>Javapower, Inc.</Company>
+	</PropertyGroup>
+
+	<!--Imports must be after PropertyGroup block-->
+	<Import Project="$([System.Environment]::GetEnvironmentVariable('CSII_TOOLPATH', 'EnvironmentVariableTarget.User'))\Mod.props" />
+	<Import Project="$([System.Environment]::GetEnvironmentVariable('CSII_TOOLPATH', 'EnvironmentVariableTarget.User'))\Mod.targets" />
+
+	<ItemGroup>
+		<Compile Remove="Resources\assets\ExamplePack\**" />
+		<Compile Remove="UI\**" />
+		<EmbeddedResource Remove="Resources\assets\ExamplePack\**" />
+		<EmbeddedResource Remove="UI\**" />
+		<None Remove="Resources\assets\ExamplePack\**" />
+		<None Remove="UI\**" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<Reference Include="Colossal.Collections">
+			<Private>false</Private>
+		</Reference>
+		<Reference Include="Colossal.Localization">
+			<Private>false</Private>
+		</Reference>
+		<Reference Include="Colossal.Mathematics">
+			<HintPath>..\..\..\..\Steam\steamapps\common\Cities Skylines II\Cities2_Data\Managed\Colossal.Mathematics.dll</HintPath>
+			<Private>false</Private>
+		</Reference>
+		<Reference Include="Colossal.PSI.Common">
+			<HintPath>..\..\..\..\Steam\steamapps\common\Cities Skylines II\Cities2_Data\Managed\Colossal.PSI.Common.dll</HintPath>
+			<Private>false</Private>
+		</Reference>
+		<Reference Include="Colossal.UI">
+			<Private>false</Private>
+		</Reference>
+		<Reference Include="Colossal.UI.Binding">
+			<HintPath>..\..\..\..\Steam\steamapps\common\Cities Skylines II\Cities2_Data\Managed\Colossal.UI.Binding.dll</HintPath>
+			<Private>false</Private>
+		</Reference>
+		<Reference Include="Game">
+			<Private>false</Private>
+		</Reference>
+		<Reference Include="Colossal.Core">
+			<Private>false</Private>
+		</Reference>
+		<Reference Include="Colossal.Logging">
+			<Private>false</Private>
+		</Reference>
+		<Reference Include="Colossal.IO.AssetDatabase">
+			<Private>false</Private>
+		</Reference>
+		<Reference Include="Unity.Collections">
+			<Private>false</Private>
+		</Reference>
+		<Reference Include="Unity.InputSystem">
+			<Private>false</Private>
+		</Reference>
+		<Reference Include="UnityEngine.CoreModule">
+			<Private>false</Private>
+		</Reference>
+		<Reference Include="Unity.Burst">
+			<Private>false</Private>
+		</Reference>
+		<Reference Include="Unity.Entities">
+			<Private>false</Private>
+		</Reference>
+		<Reference Include="Unity.Mathematics">
+			<Private>false</Private>
+		</Reference>
+	</ItemGroup>
+
+	<ItemGroup>
+		<Reference Update="System">
+			<Private>false</Private>
+		</Reference>
+		<Reference Update="System.Core">
+			<Private>false</Private>
+		</Reference>
+		<Reference Update="System.Data">
+			<Private>false</Private>
+		</Reference>
+	</ItemGroup>
+
+	<ItemGroup>
+		<None Include="$(ModPropsFile)" Link="Properties\Mod.props" />
+		<None Include="$(ModTargetsFile)" Link="Properties\Mod.targets" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<Compile Update="Code\Properties\Resources.Designer.cs">
+			<DesignTime>True</DesignTime>
+			<AutoGen>True</AutoGen>
+			<DependentUpon>Resources.resx</DependentUpon>
+		</Compile>
+		<Compile Update="Code\Properties\Settings.Designer.cs">
+			<DesignTimeSharedInput>True</DesignTimeSharedInput>
+			<AutoGen>True</AutoGen>
+			<DependentUpon>Settings.settings</DependentUpon>
+		</Compile>
+	</ItemGroup>
+
+	<ItemGroup>
+		<EmbeddedResource Update="Code\Properties\Resources.resx">
+			<Generator>ResXFileCodeGenerator</Generator>
+			<LastGenOutput>Resources.Designer.cs</LastGenOutput>
+		</EmbeddedResource>
+	</ItemGroup>
+
+	<ItemGroup>
+		<None Update="Code\Properties\Settings.settings">
+			<Generator>SettingsSingleFileGenerator</Generator>
+			<LastGenOutput>Settings.Designer.cs</LastGenOutput>
+		</None>
+	</ItemGroup>
+
+	<ItemGroup>
+		<Folder Remove="Temp\" />
+		<None Remove="C:\Users\jibarra\AppData\LocalLow\Colossal Order\Cities Skylines II\.cache\Modding\Mod.props" />
+		<None Remove="C:\Users\jibarra\AppData\LocalLow\Colossal Order\Cities Skylines II\.cache\Modding\Mod.targets" />
+		<None Remove="Code\Systems\TestFieldsUISystem" />
+	</ItemGroup>
+
+	<Target Name="SetupAttributes" BeforeTargets="BeforeBuild">
+		<XmlPoke XmlInputPath="$(PublishConfigurationPath)" Value="$([System.IO.File]::ReadAllText($(ProjectDir)/code/longDescription.md).Replace('%26','%26amp%3B').Replace('%22','%26quot%3B').Replace('%3c','%26lt%3B').Replace('%3e','%26gt%3B'))" Query="//LongDescription" />
+		<XmlPoke XmlInputPath="$(PublishConfigurationPath)" Value="$([System.IO.File]::ReadAllText($(ProjectDir)/code/changelog.md).Replace('%26','%26amp%3B').Replace('%22','%26quot%3B').Replace('%3c','%26lt%3B').Replace('%3e','%26gt%3B'))" Query="//ChangeLog" />
+		<XmlPoke XmlInputPath="$(PublishConfigurationPath)" Value="$(Version)" Query="//ModVersion/@Value" />
+	</Target>
+
+	<Target Name="GetAdditionalFiles" AfterTargets="DeployWIP">
+		<ItemGroup>
+			<AdditionalFilesToDeploy Include="$(AdditionalFilesDirectory)\**\*.*" />
+		</ItemGroup>
+		<Copy SourceFiles="@(AdditionalFilesToDeploy)" DestinationFiles="@(AdditionalFilesToDeploy->'$(DeployDir)\%(RecursiveDir)%(Filename)%(Extension)')" />
+	</Target>
+</Project>
