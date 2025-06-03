@@ -6,7 +6,9 @@
 This asset pack add several highway roads and railroad intersections to use in your map.
 
 ## Added Assets
-* **4-Exit-2-TwoWay-Railroad** Railroad intersection with 4 exits each one with 2 two-way track.
+RAILROADS:
+* **4-Exit-2-TwoWay-Railroad**: Railroad intersection with 4 exits each one with 2 two-way track.
+* **3-Exit-2-TwoWay-Railroad**: Railroad intersection with 3 exits each one with 2 two-way track.
 
 ## NOTE
 This mod is not final version. Still keep working on it and make improvements.
@@ -28,13 +30,10 @@ I would like to thanks a lot for the patience on answering my question in order 
 * Safe to remove. This mod will not break your save if removed. However the assets will no longer work.
 * This mod may require ***Asset Packs Manager*** which is highly experimental. This mod shouldn't break the save game. But subscribing to assets that require this without the dependency will pop up errors. Worst case you'll get error popups on game load and/or grey boxes in save. But either way, YOU ARE RESPONSIBLE for any damage.</LongDescription>
   <Thumbnail Value="Code/Properties/Thumbnail.png" />
-  <!--
-  <Screenshot Value="Code/Properties/Previews/ConvenienceFoodFactory.jpg" />
-  <Screenshot Value="Code/Properties/Previews/ConvenienceFoodFactory2.jpg" />
-  <Screenshot Value="Code/Properties/Previews/CargoTrain.jpg" />
-  <Screenshot Value="Code/Properties/Previews/CargoTrainUpdates.jpg" /> -->
+  <Screenshot Value="Code/Properties/Previews/screenshot1.jpg" />
+  <Screenshot Value="Code/Properties/Previews/screenshot2.jpg" />
   <Tag Value="Code Mod" />
-  <ModVersion Value="1.00.0" />
+  <ModVersion Value="1.01.0" />
   <GameVersion Value="1.2.5f1" />
   <!-- Asset Packs Manager -->
   <Dependency Id="78903" />
@@ -44,10 +43,10 @@ I would like to thanks a lot for the patience on answering my question in order 
   <Dependency Id="79634" />
   <!-- Road Builder -->
   <Dependency Id="87190" />
-  <ChangeLog>## Patch 1.00
-* First release with 1 railroad intersection.
+  <ChangeLog>## Patch 1.01
+* Added a new railroad intersection.
 * Still not final version, working in adding more intersection assets.</ChangeLog>
   <ExternalLink Type="discord" Url="https://discord.gg/UkKAfRqfCn" />
-  <ExternalLink Type="github" Url="https://github.com/Javapower77/cs2-industries-extended" />
+  <ExternalLink Type="github" Url="https://github.com/Javapower77/cs2-highway-intersections-collection" />
   <ForumLink Value="https://forum.paradoxplaza.com/forum/threads/intersections-collection.1764052/" />
 </Publish>

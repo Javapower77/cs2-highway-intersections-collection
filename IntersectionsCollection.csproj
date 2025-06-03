@@ -24,12 +24,12 @@
 		<AllowUnsafeBlocks>true</AllowUnsafeBlocks>
 
 		<!-- Mod information -->
-		<AssemblyVersion>1.00.0</AssemblyVersion>
-		<FileVersion>1.00.0</FileVersion>
-		<Version>1.00.0</Version>
+		<AssemblyVersion>1.01.0</AssemblyVersion>
+		<FileVersion>1.01.0</FileVersion>
+		<Version>1.01.0</Version>
 		<NeutralLanguage>en</NeutralLanguage>
-		<RepositoryUrl>https://github.com/Javapower77/cs2-industries-extended</RepositoryUrl>
-		<PackageProjectUrl>https://github.com/Javapower77/cs2-industries-extended</PackageProjectUrl>
+		<RepositoryUrl>https://github.com/Javapower77/cs2-highway-intersections-collection</RepositoryUrl>
+		<PackageProjectUrl>https://github.com/Javapower77/cs2-highway-intersections-collection</PackageProjectUrl>
 		<Copyright>(c) 2025, Javapower.</Copyright>
 		<Product>Intersections Collection Mod for Cities Skyline 2</Product>
 		<Authors>Javapower</Authors>

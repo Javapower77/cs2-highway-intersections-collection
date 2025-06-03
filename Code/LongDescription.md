@@ -2,7 +2,9 @@
 This asset pack add several highway roads and railroad intersections to use in your map.
 
 ## Added Assets
-* **4-Exit-2-TwoWay-Railroad** Railroad intersection with 4 exits each one with 2 two-way track.
+RAILROADS:
+* **4-Exit-2-TwoWay-Railroad**: Railroad intersection with 4 exits each one with 2 two-way track.
+* **3-Exit-2-TwoWay-Railroad**: Railroad intersection with 3 exits each one with 2 two-way track.
 
 ## NOTE
 This mod is not final version. Still keep working on it and make improvements.

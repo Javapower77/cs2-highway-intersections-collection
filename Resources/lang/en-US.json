@@ -1,6 +1,8 @@
 {
-  "Assets.NAME[4-Exit-2-TwoWay-Railroad]": "4-Exit-2-TwoWay-Railroad",
-  "Assets.DESCRIPTION[4-Exit-2-TwoWay-Railroad]": "Railroad intersection with 4 exits each one with 2 two-way track"
+  "Assets.NAME[4-Exit-2-TwoWay-Railroad]": "4 Exit, 2 Two-Way Railroad",
+  "Assets.DESCRIPTION[4-Exit-2-TwoWay-Railroad]": "Railroad intersection with 4 exits each one with 2 two-way track",
+  "Assets.NAME[3-Exit-2-TwoWay-Railroad]": "3 Exit, 2 Two-Way Railroad",
+  "Assets.DESCRIPTION[3-Exit-2-TwoWay-Railroad]": "Railroad intersection with 3 exits each one with 2 two-way track"
 }
 
 
