@@ -3,8 +3,11 @@ This asset pack add several highway roads and railroad intersections to use in y
 
 ## Added Assets
 RAILROADS:
-* **4-Exit-2-TwoWay-Railroad**: Railroad intersection with 4 exits each one with 2 two-way track.
-* **3-Exit-2-TwoWay-Railroad**: Railroad intersection with 3 exits each one with 2 two-way track.
+**3-Exit-2-TwoWay-Railroad**: Railroad intersection with 3 exits each one with 2 two-way track.
+**3-Exit-2-TwoWay-Railroad-Trumpet-Down**: Railroad intersection with 3 exits each one with 2 two-way track, having a trumpet-style railroad underneath.
+**3-Exit-2-TwoWay-Railroad-Double-Trumpet-Down**: Railroad intersection with 3 exits each one with 2 two-way track, having a two trumpet-style railroad underneath.
+**4-Exit-2-TwoWay-Railroad**: Railroad intersection with 4 exits each one with 2 two-way track.
+**4-RoundExit-2-TwoWay-Railroad**: Railroad roundbound intersection with 4 exits each one with 2 two-way track.
 
 ## NOTE
 This mod is not final version. Still keep working on it and make improvements.

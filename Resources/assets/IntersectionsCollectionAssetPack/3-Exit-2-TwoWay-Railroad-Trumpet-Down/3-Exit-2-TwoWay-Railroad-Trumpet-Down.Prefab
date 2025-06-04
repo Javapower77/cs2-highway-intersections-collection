@@ -1,0 +1,1689 @@
+{
+    "$id": 0,
+    "$type": "0|Game.Prefabs.AssetStampPrefab, Game",
+    "name": "3-Exit-2-TwoWay-Railroad-Trumpet-Down",
+    "active": true,
+    "components": {
+        "$id": 1,
+        "$type": "1|System.Collections.Generic.List`1[[Game.Prefabs.ComponentBase, Game]], mscorlib",
+        "$rlength": 5,
+        "$rcontent": [
+            {
+                "$id": 2,
+                "$type": "2|Game.Prefabs.UIObject, Game",
+                "name": "UIObject",
+                "active": true,
+                "m_Group": $fstrref:"UnityGUID:1239dee54354f354dbc47d2e5d5ead47",
+                "m_Priority": 913303,
+                "m_Icon": "coui://javapower-intersections-collection/3Exit2TwoWayRailroadTrumpetDown.png",
+                "m_IsDebugObject": false
+            },
+            {
+                "$id": 3,
+                "$type": "3|Game.Prefabs.ObjectSubNets, Game",
+                "name": "",
+                "active": true,
+                "m_InvertWhen": 1,
+                "m_SubNets": {
+                    "$id": 4,
+                    "$type": "4|Game.Prefabs.ObjectSubNetInfo[], Game",
+                    "$rlength": 37,
+                    "$rcontent": [
+                        {
+                            "$id": 5,
+                            "$type": "5|Game.Prefabs.ObjectSubNetInfo, Game",
+                            "m_NetPrefab": $fstrref:"UnityGUID:f0ddda895647fcd488bb49718382ddf5",
+                            "m_BezierCurve": {
+                                "$type": "6|Colossal.Mathematics.Bezier4x3, Colossal.Mathematics",
+                                "a": {
+                                    "$type": "7|Unity.Mathematics.float3, Unity.Mathematics",
+                                    "x": -127.8302,
+                                    "y": 10,
+                                    "z": -5.96359253
+                                },
+                                "b": {
+                                    "$type": 7,
+                                    "x": -150.8302,
+                                    "y": 0,
+                                    "z": -5.963623
+                                },
+                                "c": {
+                                    "$type": 7,
+                                    "x": -173.8302,
+                                    "y": 0,
+                                    "z": -5.963623
+                                },
+                                "d": {
+                                    "$type": 7,
+                                    "x": -196.8302,
+                                    "y": 10,
+                                    "z": -5.963623
+                                }
+                            },
+                            "m_NodeIndex": {
+                                "$type": "8|Unity.Mathematics.int2, Unity.Mathematics",
+                                "x": 0,
+                                "y": 1
+                            },
+                            "m_ParentMesh": {
+                                "$type": 8,
+                                "x": 1,
+                                "y": 1
+                            },
+                            "m_Upgrades": null
+                        },
+                        {
+                            "$id": 6,
+                            "$type": 5,
+                            "m_NetPrefab": $fstrref:"UnityGUID:f0ddda895647fcd488bb49718382ddf5",
+                            "m_BezierCurve": {
+                                "$type": 6,
+                                "a": {
+                                    "$type": 7,
+                                    "x": -196.8302,
+                                    "y": 10,
+                                    "z": 10.036377
+                                },
+                                "b": {
+                                    "$type": 7,
+                                    "x": -173.8302,
+                                    "y": 0,
+                                    "z": 10.0364075
+                                },
+                                "c": {
+                                    "$type": 7,
+                                    "x": -150.8302,
+                                    "y": 0,
+                                    "z": 10.0364075
+                                },
+                                "d": {
+                                    "$type": 7,
+                                    "x": -127.8302,
+                                    "y": 10,
+                                    "z": 10.036377
+                                }
+                            },
+                            "m_NodeIndex": {
+                                "$type": 8,
+                                "x": 2,
+                                "y": 3
+                            },
+                            "m_ParentMesh": {
+                                "$type": 8,
+                                "x": 1,
+                                "y": 1
+                            },
+                            "m_Upgrades": null
+                        },
+                        {
+                            "$id": 7,
+                            "$type": 5,
+                            "m_NetPrefab": $fstrref:"UnityGUID:f0ddda895647fcd488bb49718382ddf5",
+                            "m_BezierCurve": {
+                                "$type": 6,
+                                "a": {
+                                    "$type": 7,
+                                    "x": -58.8302,
+                                    "y": 10,
+                                    "z": 10.036377
+                                },
+                                "b": {
+                                    "$type": 7,
+                                    "x": -35.8302,
+                                    "y": 0,
+                                    "z": 10.0364075
+                                },
+                                "c": {
+                                    "$type": 7,
+                                    "x": -12.8302,
+                                    "y": 0,
+                                    "z": 10.036377
+                                },
+                                "d": {
+                                    "$type": 7,
+                                    "x": 10.1698,
+                                    "y": 10,
+                                    "z": 10.0364075
+                                }
+                            },
+                            "m_NodeIndex": {
+                                "$type": 8,
+                                "x": 4,
+                                "y": 5
+                            },
+                            "m_ParentMesh": {
+                                "$type": 8,
+                                "x": 1,
+                                "y": 1
+                            },
+                            "m_Upgrades": null
+                        },
+                        {
+                            "$id": 8,
+                            "$type": 5,
+                            "m_NetPrefab": $fstrref:"UnityGUID:f0ddda895647fcd488bb49718382ddf5",
+                            "m_BezierCurve": {
+                                "$type": 6,
+                                "a": {
+                                    "$type": 7,
+                                    "x": 63.619873,
+                                    "y": 10,
+                                    "z": 50.036438
+                                },
+                                "b": {
+                                    "$type": 7,
+                                    "x": 63.619873,
+                                    "y": 0,
+                                    "z": 74.3370361
+                                },
+                                "c": {
+                                    "$type": 7,
+                                    "x": 43.9205322,
+                                    "y": 0,
+                                    "z": 94.03644
+                                },
+                                "d": {
+                                    "$type": 7,
+                                    "x": 19.6199951,
+                                    "y": 7.496826,
+                                    "z": 94.03644
+                                }
+                            },
+                            "m_NodeIndex": {
+                                "$type": 8,
+                                "x": 6,
+                                "y": 7
+                            },
+                            "m_ParentMesh": {
+                                "$type": 8,
+                                "x": 1,
+                                "y": 1
+                            },
+                            "m_Upgrades": null
+                        },
+                        {
+                            "$id": 9,
+                            "$type": 5,
+                            "m_NetPrefab": $fstrref:"UnityGUID:f0ddda895647fcd488bb49718382ddf5",
+                            "m_BezierCurve": {
+                                "$type": 6,
+                                "a": {
+                                    "$type": 7,
+                                    "x": 62.0462646,
+                                    "y": 8.748413,
+                                    "z": 92.46283
+                                },
+                                "b": {
+                                    "$type": 7,
+                                    "x": 72.9041748,
+                                    "y": 0,
+                                    "z": 81.60498
+                                },
+                                "c": {
+                                    "$type": 7,
+                                    "x": 79.61987,
+                                    "y": 0,
+                                    "z": 66.60498
+                                },
+                                "d": {
+                                    "$type": 7,
+                                    "x": 79.61987,
+                                    "y": 10,
+                                    "z": 50.036438
+                                }
+                            },
+                            "m_NodeIndex": {
+                                "$type": 8,
+                                "x": 8,
+                                "y": 9
+                            },
+                            "m_ParentMesh": {
+                                "$type": 8,
+                                "x": 1,
+                                "y": 1
+                            },
+                            "m_Upgrades": null
+                        },
+                        {
+                            "$id": 10,
+                            "$type": 5,
+                            "m_NetPrefab": $fstrref:"UnityGUID:f0ddda895647fcd488bb49718382ddf5",
+                            "m_BezierCurve": {
+                                "$type": 6,
+                                "a": {
+                                    "$type": 7,
+                                    "x": 19.6199951,
+                                    "y": 7.496826,
+                                    "z": 94.03644
+                                },
+                                "b": {
+                                    "$type": 7,
+                                    "x": -4.68042,
+                                    "y": 0,
+                                    "z": 94.03644
+                                },
+                                "c": {
+                                    "$type": 7,
+                                    "x": -24.3800049,
+                                    "y": 0,
+                                    "z": 74.33688
+                                },
+                                "d": {
+                                    "$type": 7,
+                                    "x": -24.3800049,
+                                    "y": 5,
+                                    "z": 50.036438
+                                }
+                            },
+                            "m_NodeIndex": {
+                                "$type": 8,
+                                "x": 7,
+                                "y": 10
+                            },
+                            "m_ParentMesh": {
+                                "$type": 8,
+                                "x": 1,
+                                "y": 1
+                            },
+                            "m_Upgrades": null
+                        },
+                        {
+                            "$id": 11,
+                            "$type": 5,
+                            "m_NetPrefab": $fstrref:"UnityGUID:f0ddda895647fcd488bb49718382ddf5",
+                            "m_BezierCurve": {
+                                "$type": 6,
+                                "a": {
+                                    "$type": 7,
+                                    "x": 19.6199951,
+                                    "y": 7.496826,
+                                    "z": 110.036438
+                                },
+                                "b": {
+                                    "$type": 7,
+                                    "x": 36.1884766,
+                                    "y": 0,
+                                    "z": 110.036438
+                                },
+                                "c": {
+                                    "$type": 7,
+                                    "x": 51.1883545,
+                                    "y": 0,
+                                    "z": 103.320709
+                                },
+                                "d": {
+                                    "$type": 7,
+                                    "x": 62.0462646,
+                                    "y": 8.748413,
+                                    "z": 92.46283
+                                }
+                            },
+                            "m_NodeIndex": {
+                                "$type": 8,
+                                "x": 11,
+                                "y": 8
+                            },
+                            "m_ParentMesh": {
+                                "$type": 8,
+                                "x": 1,
+                                "y": 1
+                            },
+                            "m_Upgrades": null
+                        },
+                        {
+                            "$id": 12,
+                            "$type": 5,
+                            "m_NetPrefab": $fstrref:"UnityGUID:f0ddda895647fcd488bb49718382ddf5",
+                            "m_BezierCurve": {
+                                "$type": 6,
+                                "a": {
+                                    "$type": 7,
+                                    "x": -40.3800049,
+                                    "y": 5,
+                                    "z": 50.036438
+                                },
+                                "b": {
+                                    "$type": 7,
+                                    "x": -40.3800049,
+                                    "y": 0,
+                                    "z": 83.17352
+                                },
+                                "c": {
+                                    "$type": 7,
+                                    "x": -13.5172119,
+                                    "y": 0,
+                                    "z": 110.036438
+                                },
+                                "d": {
+                                    "$type": 7,
+                                    "x": 19.6199951,
+                                    "y": 7.496826,
+                                    "z": 110.036438
+                                }
+                            },
+                            "m_NodeIndex": {
+                                "$type": 8,
+                                "x": 12,
+                                "y": 11
+                            },
+                            "m_ParentMesh": {
+                                "$type": 8,
+                                "x": 1,
+                                "y": 1
+                            },
+                            "m_Upgrades": null
+                        },
+                        {
+                            "$id": 13,
+                            "$type": 5,
+                            "m_NetPrefab": $fstrref:"UnityGUID:f0ddda895647fcd488bb49718382ddf5",
+                            "m_BezierCurve": {
+                                "$type": 6,
+                                "a": {
+                                    "$type": 7,
+                                    "x": -24.380127,
+                                    "y": 4.871826,
+                                    "z": -65.92108
+                                },
+                                "b": {
+                                    "$type": 7,
+                                    "x": -24.380127,
+                                    "y": 0,
+                                    "z": -69.93524
+                                },
+                                "c": {
+                                    "$type": 7,
+                                    "x": -24.380127,
+                                    "y": 0,
+                                    "z": -73.9494
+                                },
+                                "d": {
+                                    "$type": 7,
+                                    "x": -24.380127,
+                                    "y": 5,
+                                    "z": -77.96356
+                                }
+                            },
+                            "m_NodeIndex": {
+                                "$type": 8,
+                                "x": 13,
+                                "y": 14
+                            },
+                            "m_ParentMesh": {
+                                "$type": 8,
+                                "x": 1,
+                                "y": 1
+                            },
+                            "m_Upgrades": null
+                        },
+                        {
+                            "$id": 14,
+                            "$type": 5,
+                            "m_NetPrefab": $fstrref:"UnityGUID:f0ddda895647fcd488bb49718382ddf5",
+                            "m_BezierCurve": {
+                                "$type": 6,
+                                "a": {
+                                    "$type": 7,
+                                    "x": -24.3800049,
+                                    "y": 0,
+                                    "z": -9.921143
+                                },
+                                "b": {
+                                    "$type": 7,
+                                    "x": -24.3800049,
+                                    "y": 0,
+                                    "z": -28.5877686
+                                },
+                                "c": {
+                                    "$type": 7,
+                                    "x": -24.3800049,
+                                    "y": 0,
+                                    "z": -47.2543945
+                                },
+                                "d": {
+                                    "$type": 7,
+                                    "x": -24.380127,
+                                    "y": 4.871826,
+                                    "z": -65.92108
+                                }
+                            },
+                            "m_NodeIndex": {
+                                "$type": 8,
+                                "x": 15,
+                                "y": 13
+                            },
+                            "m_ParentMesh": {
+                                "$type": 8,
+                                "x": 1,
+                                "y": 1
+                            },
+                            "m_Upgrades": null
+                        },
+                        {
+                            "$id": 15,
+                            "$type": 5,
+                            "m_NetPrefab": $fstrref:"UnityGUID:f0ddda895647fcd488bb49718382ddf5",
+                            "m_BezierCurve": {
+                                "$type": 6,
+                                "a": {
+                                    "$type": 7,
+                                    "x": 120.1698,
+                                    "y": 9.99996948,
+                                    "z": 10.0364075
+                                },
+                                "b": {
+                                    "$type": 7,
+                                    "x": 127.503052,
+                                    "y": 0,
+                                    "z": 10.0364075
+                                },
+                                "c": {
+                                    "$type": 7,
+                                    "x": 134.836426,
+                                    "y": 0,
+                                    "z": 10.0364075
+                                },
+                                "d": {
+                                    "$type": 7,
+                                    "x": 142.1698,
+                                    "y": 10,
+                                    "z": 10.0364075
+                                }
+                            },
+                            "m_NodeIndex": {
+                                "$type": 8,
+                                "x": 16,
+                                "y": 17
+                            },
+                            "m_ParentMesh": {
+                                "$type": 8,
+                                "x": 1,
+                                "y": 1
+                            },
+                            "m_Upgrades": null
+                        },
+                        {
+                            "$id": 16,
+                            "$type": 5,
+                            "m_NetPrefab": $fstrref:"UnityGUID:f0ddda895647fcd488bb49718382ddf5",
+                            "m_BezierCurve": {
+                                "$type": 6,
+                                "a": {
+                                    "$type": 7,
+                                    "x": 76.1698,
+                                    "y": 10,
+                                    "z": 10.0364075
+                                },
+                                "b": {
+                                    "$type": 7,
+                                    "x": 90.83655,
+                                    "y": 0,
+                                    "z": 10.036377
+                                },
+                                "c": {
+                                    "$type": 7,
+                                    "x": 105.503174,
+                                    "y": 0,
+                                    "z": 10.0364075
+                                },
+                                "d": {
+                                    "$type": 7,
+                                    "x": 120.1698,
+                                    "y": 9.99996948,
+                                    "z": 10.0364075
+                                }
+                            },
+                            "m_NodeIndex": {
+                                "$type": 8,
+                                "x": 18,
+                                "y": 16
+                            },
+                            "m_ParentMesh": {
+                                "$type": 8,
+                                "x": 1,
+                                "y": 1
+                            },
+                            "m_Upgrades": null
+                        },
+                        {
+                            "$id": 17,
+                            "$type": 5,
+                            "m_NetPrefab": $fstrref:"UnityGUID:f0ddda895647fcd488bb49718382ddf5",
+                            "m_BezierCurve": {
+                                "$type": 6,
+                                "a": {
+                                    "$type": 7,
+                                    "x": -24.380127,
+                                    "y": 5,
+                                    "z": -77.96356
+                                },
+                                "b": {
+                                    "$type": 7,
+                                    "x": -24.380127,
+                                    "y": 0,
+                                    "z": -101.971924
+                                },
+                                "c": {
+                                    "$type": 7,
+                                    "x": -24.380127,
+                                    "y": 0,
+                                    "z": -125.980286
+                                },
+                                "d": {
+                                    "$type": 7,
+                                    "x": -24.380127,
+                                    "y": 5.00003052,
+                                    "z": -149.988647
+                                }
+                            },
+                            "m_NodeIndex": {
+                                "$type": 8,
+                                "x": 14,
+                                "y": 19
+                            },
+                            "m_ParentMesh": {
+                                "$type": 8,
+                                "x": 1,
+                                "y": 1
+                            },
+                            "m_Upgrades": null
+                        },
+                        {
+                            "$id": 18,
+                            "$type": 5,
+                            "m_NetPrefab": $fstrref:"UnityGUID:f0ddda895647fcd488bb49718382ddf5",
+                            "m_BezierCurve": {
+                                "$type": 6,
+                                "a": {
+                                    "$type": 7,
+                                    "x": -40.38025,
+                                    "y": 5,
+                                    "z": -77.91351
+                                },
+                                "b": {
+                                    "$type": 7,
+                                    "x": -40.38025,
+                                    "y": 0,
+                                    "z": -101.938538
+                                },
+                                "c": {
+                                    "$type": 7,
+                                    "x": -40.38025,
+                                    "y": 0,
+                                    "z": -125.963562
+                                },
+                                "d": {
+                                    "$type": 7,
+                                    "x": -40.38025,
+                                    "y": 4.99850464,
+                                    "z": -149.988586
+                                }
+                            },
+                            "m_NodeIndex": {
+                                "$type": 8,
+                                "x": 20,
+                                "y": 21
+                            },
+                            "m_ParentMesh": {
+                                "$type": 8,
+                                "x": 1,
+                                "y": 1
+                            },
+                            "m_Upgrades": null
+                        },
+                        {
+                            "$id": 19,
+                            "$type": 5,
+                            "m_NetPrefab": $fstrref:"UnityGUID:f0ddda895647fcd488bb49718382ddf5",
+                            "m_BezierCurve": {
+                                "$type": 6,
+                                "a": {
+                                    "$type": 7,
+                                    "x": 10.1698,
+                                    "y": 10,
+                                    "z": -5.96359253
+                                },
+                                "b": {
+                                    "$type": 7,
+                                    "x": -12.8303223,
+                                    "y": 0,
+                                    "z": -5.963623
+                                },
+                                "c": {
+                                    "$type": 7,
+                                    "x": -35.8304443,
+                                    "y": 0,
+                                    "z": -5.963684
+                                },
+                                "d": {
+                                    "$type": 7,
+                                    "x": -58.8302,
+                                    "y": 10,
+                                    "z": -5.96359253
+                                }
+                            },
+                            "m_NodeIndex": {
+                                "$type": 8,
+                                "x": 22,
+                                "y": 23
+                            },
+                            "m_ParentMesh": {
+                                "$type": 8,
+                                "x": 1,
+                                "y": 1
+                            },
+                            "m_Upgrades": null
+                        },
+                        {
+                            "$id": 20,
+                            "$type": 5,
+                            "m_NetPrefab": $fstrref:"UnityGUID:f0ddda895647fcd488bb49718382ddf5",
+                            "m_BezierCurve": {
+                                "$type": 6,
+                                "a": {
+                                    "$type": 7,
+                                    "x": -127.8302,
+                                    "y": 10,
+                                    "z": 10.036377
+                                },
+                                "b": {
+                                    "$type": 7,
+                                    "x": -104.8302,
+                                    "y": 0,
+                                    "z": 10.0363464
+                                },
+                                "c": {
+                                    "$type": 7,
+                                    "x": -81.8302,
+                                    "y": 0,
+                                    "z": 10.036438
+                                },
+                                "d": {
+                                    "$type": 7,
+                                    "x": -58.8302,
+                                    "y": 10,
+                                    "z": 10.036377
+                                }
+                            },
+                            "m_NodeIndex": {
+                                "$type": 8,
+                                "x": 3,
+                                "y": 4
+                            },
+                            "m_ParentMesh": {
+                                "$type": 8,
+                                "x": 1,
+                                "y": 1
+                            },
+                            "m_Upgrades": null
+                        },
+                        {
+                            "$id": 21,
+                            "$type": 5,
+                            "m_NetPrefab": $fstrref:"UnityGUID:f0ddda895647fcd488bb49718382ddf5",
+                            "m_BezierCurve": {
+                                "$type": 6,
+                                "a": {
+                                    "$type": 7,
+                                    "x": 10.1698,
+                                    "y": 10,
+                                    "z": 10.0364075
+                                },
+                                "b": {
+                                    "$type": 7,
+                                    "x": 14.1698,
+                                    "y": 0,
+                                    "z": 10.0364075
+                                },
+                                "c": {
+                                    "$type": 7,
+                                    "x": 18.1698,
+                                    "y": 0,
+                                    "z": 10.0364075
+                                },
+                                "d": {
+                                    "$type": 7,
+                                    "x": 22.1698,
+                                    "y": 10.000061,
+                                    "z": 10.0364075
+                                }
+                            },
+                            "m_NodeIndex": {
+                                "$type": 8,
+                                "x": 5,
+                                "y": 24
+                            },
+                            "m_ParentMesh": {
+                                "$type": 8,
+                                "x": 1,
+                                "y": 1
+                            },
+                            "m_Upgrades": null
+                        },
+                        {
+                            "$id": 22,
+                            "$type": 5,
+                            "m_NetPrefab": $fstrref:"UnityGUID:f0ddda895647fcd488bb49718382ddf5",
+                            "m_BezierCurve": {
+                                "$type": 6,
+                                "a": {
+                                    "$type": 7,
+                                    "x": 22.1698,
+                                    "y": 10.000061,
+                                    "z": 10.0364075
+                                },
+                                "b": {
+                                    "$type": 7,
+                                    "x": 40.1698,
+                                    "y": 0,
+                                    "z": 10.0364075
+                                },
+                                "c": {
+                                    "$type": 7,
+                                    "x": 58.1698,
+                                    "y": 0,
+                                    "z": 10.0364075
+                                },
+                                "d": {
+                                    "$type": 7,
+                                    "x": 76.1698,
+                                    "y": 10,
+                                    "z": 10.0364075
+                                }
+                            },
+                            "m_NodeIndex": {
+                                "$type": 8,
+                                "x": 24,
+                                "y": 18
+                            },
+                            "m_ParentMesh": {
+                                "$type": 8,
+                                "x": 1,
+                                "y": 1
+                            },
+                            "m_Upgrades": null
+                        },
+                        {
+                            "$id": 23,
+                            "$type": 5,
+                            "m_NetPrefab": $fstrref:"UnityGUID:f0ddda895647fcd488bb49718382ddf5",
+                            "m_BezierCurve": {
+                                "$type": 6,
+                                "a": {
+                                    "$type": 7,
+                                    "x": -106.830322,
+                                    "y": 10,
+                                    "z": -5.96359253
+                                },
+                                "b": {
+                                    "$type": 7,
+                                    "x": -113.8302,
+                                    "y": 0,
+                                    "z": -5.96359253
+                                },
+                                "c": {
+                                    "$type": 7,
+                                    "x": -120.8302,
+                                    "y": 0,
+                                    "z": -5.96359253
+                                },
+                                "d": {
+                                    "$type": 7,
+                                    "x": -127.8302,
+                                    "y": 10,
+                                    "z": -5.96359253
+                                }
+                            },
+                            "m_NodeIndex": {
+                                "$type": 8,
+                                "x": 25,
+                                "y": 0
+                            },
+                            "m_ParentMesh": {
+                                "$type": 8,
+                                "x": 1,
+                                "y": 1
+                            },
+                            "m_Upgrades": null
+                        },
+                        {
+                            "$id": 24,
+                            "$type": 5,
+                            "m_NetPrefab": $fstrref:"UnityGUID:f0ddda895647fcd488bb49718382ddf5",
+                            "m_BezierCurve": {
+                                "$type": 6,
+                                "a": {
+                                    "$type": 7,
+                                    "x": -58.8302,
+                                    "y": 10,
+                                    "z": -5.96359253
+                                },
+                                "b": {
+                                    "$type": 7,
+                                    "x": -74.8302,
+                                    "y": 0,
+                                    "z": -5.963623
+                                },
+                                "c": {
+                                    "$type": 7,
+                                    "x": -90.8302,
+                                    "y": 0,
+                                    "z": -5.963623
+                                },
+                                "d": {
+                                    "$type": 7,
+                                    "x": -106.830322,
+                                    "y": 10,
+                                    "z": -5.96359253
+                                }
+                            },
+                            "m_NodeIndex": {
+                                "$type": 8,
+                                "x": 23,
+                                "y": 25
+                            },
+                            "m_ParentMesh": {
+                                "$type": 8,
+                                "x": 1,
+                                "y": 1
+                            },
+                            "m_Upgrades": null
+                        },
+                        {
+                            "$id": 25,
+                            "$type": 5,
+                            "m_NetPrefab": $fstrref:"UnityGUID:f0ddda895647fcd488bb49718382ddf5",
+                            "m_BezierCurve": {
+                                "$type": 6,
+                                "a": {
+                                    "$type": 7,
+                                    "x": -40.380127,
+                                    "y": 5,
+                                    "z": -77.96356
+                                },
+                                "b": {
+                                    "$type": 7,
+                                    "x": -40.380127,
+                                    "y": 0,
+                                    "z": -75.296875
+                                },
+                                "c": {
+                                    "$type": 7,
+                                    "x": -40.380127,
+                                    "y": 0,
+                                    "z": -72.63019
+                                },
+                                "d": {
+                                    "$type": 7,
+                                    "x": -40.380127,
+                                    "y": 4.94726563,
+                                    "z": -69.9635
+                                }
+                            },
+                            "m_NodeIndex": {
+                                "$type": 8,
+                                "x": 20,
+                                "y": 26
+                            },
+                            "m_ParentMesh": {
+                                "$type": 8,
+                                "x": 1,
+                                "y": 1
+                            },
+                            "m_Upgrades": null
+                        },
+                        {
+                            "$id": 26,
+                            "$type": 5,
+                            "m_NetPrefab": $fstrref:"UnityGUID:f0ddda895647fcd488bb49718382ddf5",
+                            "m_BezierCurve": {
+                                "$type": 6,
+                                "a": {
+                                    "$type": 7,
+                                    "x": -40.380127,
+                                    "y": 4.94726563,
+                                    "z": -69.9635
+                                },
+                                "b": {
+                                    "$type": 7,
+                                    "x": -40.380127,
+                                    "y": 0,
+                                    "z": -49.94934
+                                },
+                                "c": {
+                                    "$type": 7,
+                                    "x": -40.380127,
+                                    "y": 0,
+                                    "z": -29.9352417
+                                },
+                                "d": {
+                                    "$type": 7,
+                                    "x": -40.380127,
+                                    "y": 0,
+                                    "z": -9.921082
+                                }
+                            },
+                            "m_NodeIndex": {
+                                "$type": 8,
+                                "x": 26,
+                                "y": 27
+                            },
+                            "m_ParentMesh": {
+                                "$type": 8,
+                                "x": 1,
+                                "y": 1
+                            },
+                            "m_Upgrades": null
+                        },
+                        {
+                            "$id": 27,
+                            "$type": 5,
+                            "m_NetPrefab": $fstrref:"UnityGUID:f0ddda895647fcd488bb49718382ddf5",
+                            "m_BezierCurve": {
+                                "$type": 6,
+                                "a": {
+                                    "$type": 7,
+                                    "x": 76.1698,
+                                    "y": 10,
+                                    "z": -5.96359253
+                                },
+                                "b": {
+                                    "$type": 7,
+                                    "x": 64.1698,
+                                    "y": 0,
+                                    "z": -5.963623
+                                },
+                                "c": {
+                                    "$type": 7,
+                                    "x": 52.1698,
+                                    "y": 0,
+                                    "z": -5.96359253
+                                },
+                                "d": {
+                                    "$type": 7,
+                                    "x": 40.1698,
+                                    "y": 10,
+                                    "z": -5.96359253
+                                }
+                            },
+                            "m_NodeIndex": {
+                                "$type": 8,
+                                "x": 28,
+                                "y": 29
+                            },
+                            "m_ParentMesh": {
+                                "$type": 8,
+                                "x": 1,
+                                "y": 1
+                            },
+                            "m_Upgrades": null
+                        },
+                        {
+                            "$id": 28,
+                            "$type": 5,
+                            "m_NetPrefab": $fstrref:"UnityGUID:f0ddda895647fcd488bb49718382ddf5",
+                            "m_BezierCurve": {
+                                "$type": 6,
+                                "a": {
+                                    "$type": 7,
+                                    "x": 40.1698,
+                                    "y": 10,
+                                    "z": -5.96359253
+                                },
+                                "b": {
+                                    "$type": 7,
+                                    "x": 30.1698,
+                                    "y": 0,
+                                    "z": -5.96359253
+                                },
+                                "c": {
+                                    "$type": 7,
+                                    "x": 20.1698,
+                                    "y": 0,
+                                    "z": -5.96359253
+                                },
+                                "d": {
+                                    "$type": 7,
+                                    "x": 10.1698,
+                                    "y": 10,
+                                    "z": -5.96359253
+                                }
+                            },
+                            "m_NodeIndex": {
+                                "$type": 8,
+                                "x": 29,
+                                "y": 22
+                            },
+                            "m_ParentMesh": {
+                                "$type": 8,
+                                "x": 1,
+                                "y": 1
+                            },
+                            "m_Upgrades": null
+                        },
+                        {
+                            "$id": 29,
+                            "$type": 5,
+                            "m_NetPrefab": $fstrref:"UnityGUID:f0ddda895647fcd488bb49718382ddf5",
+                            "m_BezierCurve": {
+                                "$type": 6,
+                                "a": {
+                                    "$type": 7,
+                                    "x": -40.380127,
+                                    "y": 0,
+                                    "z": -9.921082
+                                },
+                                "b": {
+                                    "$type": 7,
+                                    "x": -40.380127,
+                                    "y": 0,
+                                    "z": -1.92938232
+                                },
+                                "c": {
+                                    "$type": 7,
+                                    "x": -40.380127,
+                                    "y": 0,
+                                    "z": 6.062317
+                                },
+                                "d": {
+                                    "$type": 7,
+                                    "x": -40.380127,
+                                    "y": 0,
+                                    "z": 14.0539856
+                                }
+                            },
+                            "m_NodeIndex": {
+                                "$type": 8,
+                                "x": 27,
+                                "y": 30
+                            },
+                            "m_ParentMesh": {
+                                "$type": 8,
+                                "x": 1,
+                                "y": 1
+                            },
+                            "m_Upgrades": null
+                        },
+                        {
+                            "$id": 30,
+                            "$type": 5,
+                            "m_NetPrefab": $fstrref:"UnityGUID:f0ddda895647fcd488bb49718382ddf5",
+                            "m_BezierCurve": {
+                                "$type": 6,
+                                "a": {
+                                    "$type": 7,
+                                    "x": -24.3800049,
+                                    "y": 0,
+                                    "z": 14.0538635
+                                },
+                                "b": {
+                                    "$type": 7,
+                                    "x": -24.3800049,
+                                    "y": 0,
+                                    "z": 6.062195
+                                },
+                                "c": {
+                                    "$type": 7,
+                                    "x": -24.3800049,
+                                    "y": 0,
+                                    "z": -1.92947388
+                                },
+                                "d": {
+                                    "$type": 7,
+                                    "x": -24.3800049,
+                                    "y": 0,
+                                    "z": -9.921143
+                                }
+                            },
+                            "m_NodeIndex": {
+                                "$type": 8,
+                                "x": 31,
+                                "y": 15
+                            },
+                            "m_ParentMesh": {
+                                "$type": 8,
+                                "x": 1,
+                                "y": 1
+                            },
+                            "m_Upgrades": null
+                        },
+                        {
+                            "$id": 31,
+                            "$type": 5,
+                            "m_NetPrefab": $fstrref:"UnityGUID:f0ddda895647fcd488bb49718382ddf5",
+                            "m_BezierCurve": {
+                                "$type": 6,
+                                "a": {
+                                    "$type": 7,
+                                    "x": 63.619873,
+                                    "y": 10,
+                                    "z": 50.036438
+                                },
+                                "b": {
+                                    "$type": 7,
+                                    "x": 63.619873,
+                                    "y": 0,
+                                    "z": 27.9450073
+                                },
+                                "c": {
+                                    "$type": 7,
+                                    "x": 45.7113037,
+                                    "y": 0,
+                                    "z": 10.036377
+                                },
+                                "d": {
+                                    "$type": 7,
+                                    "x": 23.619751,
+                                    "y": 10.000061,
+                                    "z": 10.036377
+                                }
+                            },
+                            "m_NodeIndex": {
+                                "$type": 8,
+                                "x": 6,
+                                "y": 24
+                            },
+                            "m_ParentMesh": {
+                                "$type": 8,
+                                "x": 1,
+                                "y": 1
+                            },
+                            "m_Upgrades": null
+                        },
+                        {
+                            "$id": 32,
+                            "$type": 5,
+                            "m_NetPrefab": $fstrref:"UnityGUID:5421f235787cfbc4b97b1585f520fd91",
+                            "m_BezierCurve": {
+                                "$type": 6,
+                                "a": {
+                                    "$type": 7,
+                                    "x": -61.1253662,
+                                    "y": 7.564026,
+                                    "z": -26.70874
+                                },
+                                "b": {
+                                    "$type": 7,
+                                    "x": -49.54358,
+                                    "y": 0,
+                                    "z": -38.2904663
+                                },
+                                "c": {
+                                    "$type": 7,
+                                    "x": -42.38025,
+                                    "y": 0,
+                                    "z": -54.2904053
+                                },
+                                "d": {
+                                    "$type": 7,
+                                    "x": -42.38025,
+                                    "y": 4.94726563,
+                                    "z": -71.9635
+                                }
+                            },
+                            "m_NodeIndex": {
+                                "$type": 8,
+                                "x": 32,
+                                "y": 26
+                            },
+                            "m_ParentMesh": {
+                                "$type": 8,
+                                "x": 1,
+                                "y": 1
+                            },
+                            "m_Upgrades": null
+                        },
+                        {
+                            "$id": 33,
+                            "$type": 5,
+                            "m_NetPrefab": $fstrref:"UnityGUID:5421f235787cfbc4b97b1585f520fd91",
+                            "m_BezierCurve": {
+                                "$type": 6,
+                                "a": {
+                                    "$type": 7,
+                                    "x": -106.380005,
+                                    "y": 10,
+                                    "z": -7.963623
+                                },
+                                "b": {
+                                    "$type": 7,
+                                    "x": -88.70691,
+                                    "y": 0,
+                                    "z": -7.963623
+                                },
+                                "c": {
+                                    "$type": 7,
+                                    "x": -72.70703,
+                                    "y": 0,
+                                    "z": -15.1270142
+                                },
+                                "d": {
+                                    "$type": 7,
+                                    "x": -61.1253662,
+                                    "y": 7.564026,
+                                    "z": -26.70874
+                                }
+                            },
+                            "m_NodeIndex": {
+                                "$type": 8,
+                                "x": 25,
+                                "y": 32
+                            },
+                            "m_ParentMesh": {
+                                "$type": 8,
+                                "x": 1,
+                                "y": 1
+                            },
+                            "m_Upgrades": null
+                        },
+                        {
+                            "$id": 34,
+                            "$type": 5,
+                            "m_NetPrefab": $fstrref:"UnityGUID:5421f235787cfbc4b97b1585f520fd91",
+                            "m_BezierCurve": {
+                                "$type": 6,
+                                "a": {
+                                    "$type": 7,
+                                    "x": 41.6204834,
+                                    "y": 10,
+                                    "z": -7.963623
+                                },
+                                "b": {
+                                    "$type": 7,
+                                    "x": 25.1766357,
+                                    "y": 0,
+                                    "z": -7.963623
+                                },
+                                "c": {
+                                    "$type": 7,
+                                    "x": 10.0550537,
+                                    "y": 0,
+                                    "z": -14.161499
+                                },
+                                "d": {
+                                    "$type": 7,
+                                    "x": -1.39465332,
+                                    "y": 8.05423,
+                                    "z": -24.4468384
+                                }
+                            },
+                            "m_NodeIndex": {
+                                "$type": 8,
+                                "x": 29,
+                                "y": 33
+                            },
+                            "m_ParentMesh": {
+                                "$type": 8,
+                                "x": 1,
+                                "y": 1
+                            },
+                            "m_Upgrades": null
+                        },
+                        {
+                            "$id": 35,
+                            "$type": 5,
+                            "m_NetPrefab": $fstrref:"UnityGUID:5421f235787cfbc4b97b1585f520fd91",
+                            "m_BezierCurve": {
+                                "$type": 6,
+                                "a": {
+                                    "$type": 7,
+                                    "x": -1.39465332,
+                                    "y": 8.05423,
+                                    "z": -24.4468384
+                                },
+                                "b": {
+                                    "$type": 7,
+                                    "x": -12.8444824,
+                                    "y": 0,
+                                    "z": -34.7320557
+                                },
+                                "c": {
+                                    "$type": 7,
+                                    "x": -20.62268,
+                                    "y": 0,
+                                    "z": -49.1046753
+                                },
+                                "d": {
+                                    "$type": 7,
+                                    "x": -22.380127,
+                                    "y": 4.871826,
+                                    "z": -65.45422
+                                }
+                            },
+                            "m_NodeIndex": {
+                                "$type": 8,
+                                "x": 33,
+                                "y": 13
+                            },
+                            "m_ParentMesh": {
+                                "$type": 8,
+                                "x": 1,
+                                "y": 1
+                            },
+                            "m_Upgrades": null
+                        },
+                        {
+                            "$id": 36,
+                            "$type": 5,
+                            "m_NetPrefab": $fstrref:"UnityGUID:f0ddda895647fcd488bb49718382ddf5",
+                            "m_BezierCurve": {
+                                "$type": 6,
+                                "a": {
+                                    "$type": 7,
+                                    "x": 79.61987,
+                                    "y": 10,
+                                    "z": 50.036438
+                                },
+                                "b": {
+                                    "$type": 7,
+                                    "x": 79.61987,
+                                    "y": 0,
+                                    "z": 27.9450378
+                                },
+                                "c": {
+                                    "$type": 7,
+                                    "x": 97.52844,
+                                    "y": 0,
+                                    "z": 10.0364075
+                                },
+                                "d": {
+                                    "$type": 7,
+                                    "x": 119.619995,
+                                    "y": 9.99996948,
+                                    "z": 10.0364075
+                                }
+                            },
+                            "m_NodeIndex": {
+                                "$type": 8,
+                                "x": 9,
+                                "y": 16
+                            },
+                            "m_ParentMesh": {
+                                "$type": 8,
+                                "x": 1,
+                                "y": 1
+                            },
+                            "m_Upgrades": null
+                        },
+                        {
+                            "$id": 37,
+                            "$type": 5,
+                            "m_NetPrefab": $fstrref:"UnityGUID:f0ddda895647fcd488bb49718382ddf5",
+                            "m_BezierCurve": {
+                                "$type": 6,
+                                "a": {
+                                    "$type": 7,
+                                    "x": -24.380127,
+                                    "y": 5,
+                                    "z": 50.036438
+                                },
+                                "b": {
+                                    "$type": 7,
+                                    "x": -24.380127,
+                                    "y": 0,
+                                    "z": 38.0422363
+                                },
+                                "c": {
+                                    "$type": 7,
+                                    "x": -24.380127,
+                                    "y": 0,
+                                    "z": 26.0480652
+                                },
+                                "d": {
+                                    "$type": 7,
+                                    "x": -24.3800049,
+                                    "y": 0,
+                                    "z": 14.0538635
+                                }
+                            },
+                            "m_NodeIndex": {
+                                "$type": 8,
+                                "x": 10,
+                                "y": 31
+                            },
+                            "m_ParentMesh": {
+                                "$type": 8,
+                                "x": 1,
+                                "y": 1
+                            },
+                            "m_Upgrades": null
+                        },
+                        {
+                            "$id": 38,
+                            "$type": 5,
+                            "m_NetPrefab": $fstrref:"UnityGUID:f0ddda895647fcd488bb49718382ddf5",
+                            "m_BezierCurve": {
+                                "$type": 6,
+                                "a": {
+                                    "$type": 7,
+                                    "x": -40.380127,
+                                    "y": 0,
+                                    "z": 14.0539856
+                                },
+                                "b": {
+                                    "$type": 7,
+                                    "x": -40.380127,
+                                    "y": 0,
+                                    "z": 26.0481262
+                                },
+                                "c": {
+                                    "$type": 7,
+                                    "x": -40.380127,
+                                    "y": 0,
+                                    "z": 38.0422974
+                                },
+                                "d": {
+                                    "$type": 7,
+                                    "x": -40.380127,
+                                    "y": 5,
+                                    "z": 50.036438
+                                }
+                            },
+                            "m_NodeIndex": {
+                                "$type": 8,
+                                "x": 30,
+                                "y": 12
+                            },
+                            "m_ParentMesh": {
+                                "$type": 8,
+                                "x": 1,
+                                "y": 1
+                            },
+                            "m_Upgrades": null
+                        },
+                        {
+                            "$id": 39,
+                            "$type": 5,
+                            "m_NetPrefab": $fstrref:"UnityGUID:f0ddda895647fcd488bb49718382ddf5",
+                            "m_BezierCurve": {
+                                "$type": 6,
+                                "a": {
+                                    "$type": 7,
+                                    "x": 142.1698,
+                                    "y": 10,
+                                    "z": 10.0364075
+                                },
+                                "b": {
+                                    "$type": 7,
+                                    "x": 164.1698,
+                                    "y": 0,
+                                    "z": 10.0364075
+                                },
+                                "c": {
+                                    "$type": 7,
+                                    "x": 186.1698,
+                                    "y": 0,
+                                    "z": 10.0364075
+                                },
+                                "d": {
+                                    "$type": 7,
+                                    "x": 208.1698,
+                                    "y": 10,
+                                    "z": 10.0364075
+                                }
+                            },
+                            "m_NodeIndex": {
+                                "$type": 8,
+                                "x": 17,
+                                "y": 34
+                            },
+                            "m_ParentMesh": {
+                                "$type": 8,
+                                "x": 1,
+                                "y": 1
+                            },
+                            "m_Upgrades": null
+                        },
+                        {
+                            "$id": 40,
+                            "$type": 5,
+                            "m_NetPrefab": $fstrref:"UnityGUID:f0ddda895647fcd488bb49718382ddf5",
+                            "m_BezierCurve": {
+                                "$type": 6,
+                                "a": {
+                                    "$type": 7,
+                                    "x": 208.1698,
+                                    "y": 10,
+                                    "z": -5.96359253
+                                },
+                                "b": {
+                                    "$type": 7,
+                                    "x": 186.1698,
+                                    "y": 0,
+                                    "z": -5.963623
+                                },
+                                "c": {
+                                    "$type": 7,
+                                    "x": 164.1698,
+                                    "y": 0,
+                                    "z": -5.96359253
+                                },
+                                "d": {
+                                    "$type": 7,
+                                    "x": 142.1698,
+                                    "y": 10,
+                                    "z": -5.96359253
+                                }
+                            },
+                            "m_NodeIndex": {
+                                "$type": 8,
+                                "x": 35,
+                                "y": 36
+                            },
+                            "m_ParentMesh": {
+                                "$type": 8,
+                                "x": 1,
+                                "y": 1
+                            },
+                            "m_Upgrades": null
+                        },
+                        {
+                            "$id": 41,
+                            "$type": 5,
+                            "m_NetPrefab": $fstrref:"UnityGUID:f0ddda895647fcd488bb49718382ddf5",
+                            "m_BezierCurve": {
+                                "$type": 6,
+                                "a": {
+                                    "$type": 7,
+                                    "x": 142.1698,
+                                    "y": 10,
+                                    "z": -5.96359253
+                                },
+                                "b": {
+                                    "$type": 7,
+                                    "x": 120.1698,
+                                    "y": 0,
+                                    "z": -5.96359253
+                                },
+                                "c": {
+                                    "$type": 7,
+                                    "x": 98.1698,
+                                    "y": 0,
+                                    "z": -5.96359253
+                                },
+                                "d": {
+                                    "$type": 7,
+                                    "x": 76.1698,
+                                    "y": 10,
+                                    "z": -5.96359253
+                                }
+                            },
+                            "m_NodeIndex": {
+                                "$type": 8,
+                                "x": 36,
+                                "y": 28
+                            },
+                            "m_ParentMesh": {
+                                "$type": 8,
+                                "x": 1,
+                                "y": 1
+                            },
+                            "m_Upgrades": null
+                        }
+                    ]
+                }
+            },
+            {
+                "$id": 42,
+                "$type": "9|Game.Prefabs.Unlockable, Game",
+                "name": "Unlockable",
+                "active": true,
+                "m_RequireAll": {
+                    "$id": 43,
+                    "$type": "10|Game.Prefabs.PrefabBase[], Game",
+                    "$rlength": 1,
+                    "$rcontent": [
+                        $fstrref:"UnityGUID:69443e6926dfa474681cb9c187d63a53"
+                    ]
+                },
+                "m_RequireAny": {
+                    "$id": 44,
+                    "$type": 10,
+                    "$rlength": 0,
+                    "$rcontent": [
+                    ]
+                },
+                "m_IgnoreDependencies": true
+            },
+            {
+                "$id": 45,
+                "$type": "11|Game.Prefabs.EditorAssetCategoryOverride, Game",
+                "name": "EditorAssetCategoryOverride",
+                "active": true,
+                "m_IncludeCategories": {
+                    "$id": 46,
+                    "$type": "12|System.String[], mscorlib",
+                    "$rlength": 1,
+                    "$rcontent": [
+                        "Javapower/Intersection/Railroad"
+                    ]
+                },
+                "m_ExcludeCategories": {
+                    "$id": 47,
+                    "$type": 12,
+                    "$rlength": 0,
+                    "$rcontent": [
+                    ]
+                }
+            },
+            {
+                "$id": 48,
+                "$type": "13|Game.Prefabs.AssetPackItem, Game",
+                "name": "AssetPackItem",
+                "active": true,
+                "m_Packs": {
+                    "$id": 49,
+                    "$type": "14|Game.Prefabs.AssetPackPrefab[], Game",
+                    "$rlength": 1,
+                    "$rcontent": [
+                        $fstrref:"CID:35a7f0c7fc301ef3f1c90506c451ccbe"
+                    ]
+                }
+            }
+        ]
+    },
+    "m_Width": 1,
+    "m_Depth": 1,
+    "m_ConstructionCost": 0,
+    "m_UpKeepCost": 250
+}

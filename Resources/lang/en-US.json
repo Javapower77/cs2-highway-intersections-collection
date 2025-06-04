@@ -2,7 +2,14 @@
   "Assets.NAME[4-Exit-2-TwoWay-Railroad]": "4 Exit, 2 Two-Way Railroad",
   "Assets.DESCRIPTION[4-Exit-2-TwoWay-Railroad]": "Railroad intersection with 4 exits each one with 2 two-way track",
   "Assets.NAME[3-Exit-2-TwoWay-Railroad]": "3 Exit, 2 Two-Way Railroad",
-  "Assets.DESCRIPTION[3-Exit-2-TwoWay-Railroad]": "Railroad intersection with 3 exits each one with 2 two-way track"
+  "Assets.DESCRIPTION[3-Exit-2-TwoWay-Railroad]": "Railroad intersection with 3 exits each one with 2 two-way track",
+  "Assets.NAME[4-RoundExit-2-TwoWay-Railroad]": "4 Round Exit, 2 Two-Way Railroad",
+  "Assets.DESCRIPTION[4-RoundExit-2-TwoWay-Railroad]": "Railroad roudbound intersection with 4 exits each one with 2 two-way track",
+  "Assets.NAME[3-Exit-2-TwoWay-Railroad-Trumpet-Down]": "3 Exit, 2 Two-Way Railroad",
+  "Assets.DESCRIPTION[3-Exit-2-TwoWay-Railroad-Trumpet-Down]": "Railroad intersection with 3 exits each one with 2 two-way track and having a trumpet-style railroad underneath",
+  "Assets.NAME[3-Exit-2-TwoWay-Railroad-Double-Trumpet-Down]": "3 Exit, 2 Two-Way Railroad",
+  "Assets.DESCRIPTION[3-Exit-2-TwoWay-Railroad-Double-Trumpet-Down]": "Railroad intersection with 3 exits each one with 2 two-way track and having a double trumpet-style railroad underneath"
+
 }
 
 

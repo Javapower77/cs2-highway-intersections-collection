@@ -7,8 +7,11 @@ This asset pack add several highway roads and railroad intersections to use in y
 
 ## Added Assets
 RAILROADS:
-* **4-Exit-2-TwoWay-Railroad**: Railroad intersection with 4 exits each one with 2 two-way track.
-* **3-Exit-2-TwoWay-Railroad**: Railroad intersection with 3 exits each one with 2 two-way track.
+**3-Exit-2-TwoWay-Railroad**: Railroad intersection with 3 exits each one with 2 two-way track.
+**3-Exit-2-TwoWay-Railroad-Trumpet-Down**: Railroad intersection with 3 exits each one with 2 two-way track, having a trumpet-style railroad underneath.
+**3-Exit-2-TwoWay-Railroad-Double-Trumpet-Down**: Railroad intersection with 3 exits each one with 2 two-way track, having a two trumpet-style railroad underneath.
+**4-Exit-2-TwoWay-Railroad**: Railroad intersection with 4 exits each one with 2 two-way track.
+**4-RoundExit-2-TwoWay-Railroad**: Railroad roundbound intersection with 4 exits each one with 2 two-way track.
 
 ## NOTE
 This mod is not final version. Still keep working on it and make improvements.
@@ -32,8 +35,11 @@ I would like to thanks a lot for the patience on answering my question in order 
   <Thumbnail Value="Code/Properties/Thumbnail.png" />
   <Screenshot Value="Code/Properties/Previews/screenshot1.jpg" />
   <Screenshot Value="Code/Properties/Previews/screenshot2.jpg" />
+  <Screenshot Value="Code/Properties/Previews/screenshot3.jpg" />
+  <Screenshot Value="Code/Properties/Previews/screenshot4.jpg" />
+  <Screenshot Value="Code/Properties/Previews/screenshot5.jpg" />
   <Tag Value="Code Mod" />
-  <ModVersion Value="1.01.0" />
+  <ModVersion Value="1.02.0" />
   <GameVersion Value="1.2.5f1" />
   <!-- Asset Packs Manager -->
   <Dependency Id="78903" />
@@ -43,8 +49,9 @@ I would like to thanks a lot for the patience on answering my question in order 
   <Dependency Id="79634" />
   <!-- Road Builder -->
   <Dependency Id="87190" />
-  <ChangeLog>## Patch 1.01
-* Added a new railroad intersection.
+  <ChangeLog>## Patch 1.02
+* Added 3 new railroad intersections. That are all by now from roailroads. 
+* Coming next, several highway intersections.
 * Still not final version, working in adding more intersection assets.</ChangeLog>
   <ExternalLink Type="discord" Url="https://discord.gg/UkKAfRqfCn" />
   <ExternalLink Type="github" Url="https://github.com/Javapower77/cs2-highway-intersections-collection" />
