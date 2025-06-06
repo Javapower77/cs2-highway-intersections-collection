@@ -8,8 +8,9 @@
   "Assets.NAME[3-Exit-2-TwoWay-Railroad-Trumpet-Down]": "3 Exit, 2 Two-Way Railroad",
   "Assets.DESCRIPTION[3-Exit-2-TwoWay-Railroad-Trumpet-Down]": "Railroad intersection with 3 exits each one with 2 two-way track and having a trumpet-style railroad underneath",
   "Assets.NAME[3-Exit-2-TwoWay-Railroad-Double-Trumpet-Down]": "3 Exit, 2 Two-Way Railroad",
-  "Assets.DESCRIPTION[3-Exit-2-TwoWay-Railroad-Double-Trumpet-Down]": "Railroad intersection with 3 exits each one with 2 two-way track and having a double trumpet-style railroad underneath"
-
+  "Assets.DESCRIPTION[3-Exit-2-TwoWay-Railroad-Double-Trumpet-Down]": "Railroad intersection with 3 exits each one with 2 two-way track and having a double trumpet-style railroad underneath",
+  "Assets.NAME[5-Exit-Multileg-2-OneWay-Highway]": "5 Exit, 2 One-Way Highway",
+  "Assets.DESCRIPTION[5-Exit-Multileg-2-OneWay-Highway]": "Highway intersection with 3 exits multileg-style each one with 2 one-way high speed road"
 }
 
 
