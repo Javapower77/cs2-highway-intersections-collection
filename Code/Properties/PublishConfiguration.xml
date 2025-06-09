@@ -7,6 +7,11 @@ This asset pack add several highway roads and railroad intersections to use in y
 
 ## Added Assets
 
+ROADS:
+* **Six-Lane One-Way Highway**: Six-lane highway that allows traffic in one direction
+* **Eight-Lane One-Way Highway**: Eight-lane highway that allows traffic in one direction
+* **Ten-Lane One-Way Highway**: Ten-lane highway that allows traffic in one direction
+
 RAILROADS:
 * **3-Exit-2-TwoWay-Railroad**: Railroad intersection with 3 exits each one with 2 two-way track.
 * **3-Exit-2-TwoWay-Railroad-Trumpet-Down**: Railroad intersection with 3 exits each one with 2 two-way track, having a trumpet-style railroad underneath.
@@ -21,7 +26,6 @@ HIGHWAYS:
 This mod is not final version. Still keep working on it and make improvements.
 Mostly of assets in this mod are a compilation of another mods, where some of them were prepared to use in conjuntion with ControlC mod and Mio Road Assets.
 I had transformed and updated the intersections to be used as an assets from the RoadExchange group in the game.
-Some roads are made with Road Builder mod, so it is necesary to have that mod also instaled in your game.
 
 ## SPECIAL THANKS
 I would like to thanks a lot for the patience on answering my question in order to keep learning on modding CS2 to the people on the Cities Skyline Modding Discord Server.
@@ -43,8 +47,9 @@ I would like to thanks a lot for the patience on answering my question in order 
   <Screenshot Value="Code/Properties/Previews/screenshot4.jpg" />
   <Screenshot Value="Code/Properties/Previews/screenshot5.jpg" />
   <Screenshot Value="Code/Properties/Previews/screenshot6.jpg" />
+  <Screenshot Value="Code/Properties/Previews/screenshot7.jpg" />
   <Tag Value="Code Mod" />
-  <ModVersion Value="1.02.0" />
+  <ModVersion Value="1.03.0" />
   <GameVersion Value="1.2.5f1" />
   <!-- Asset Packs Manager -->
   <Dependency Id="78903" />
@@ -52,11 +57,10 @@ I would like to thanks a lot for the patience on answering my question in order 
   <Dependency Id="75426" />
   <!-- Asset Icon Library -->
   <Dependency Id="79634" />
-  <!-- Road Builder -->
-  <Dependency Id="87190" />
-  <ChangeLog>## Patch 1.02
-* Added 3 new railroad intersections. That are all by now from roailroads. 
-* Coming next, several highway intersections.
+  <ChangeLog>## Patch 1.03
+* Added 1 new highway intersections.
+* Added 3 new one-way highway to improve the intersections transport capacity.
+* Remove dependecy for Road Builder mod.
 * Still not final version, working in adding more intersection assets.</ChangeLog>
   <ExternalLink Type="discord" Url="https://discord.gg/UkKAfRqfCn" />
   <ExternalLink Type="github" Url="https://github.com/Javapower77/cs2-highway-intersections-collection" />

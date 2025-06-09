@@ -1,16 +1,22 @@
 {
   "Assets.NAME[4-Exit-2-TwoWay-Railroad]": "4 Exit, 2 Two-Way Railroad",
-  "Assets.DESCRIPTION[4-Exit-2-TwoWay-Railroad]": "Railroad intersection with 4 exits each one with 2 two-way track",
+  "Assets.DESCRIPTION[4-Exit-2-TwoWay-Railroad]": "Railroad intersection with 4 exits each one with 2 two-way track.",
   "Assets.NAME[3-Exit-2-TwoWay-Railroad]": "3 Exit, 2 Two-Way Railroad",
-  "Assets.DESCRIPTION[3-Exit-2-TwoWay-Railroad]": "Railroad intersection with 3 exits each one with 2 two-way track",
+  "Assets.DESCRIPTION[3-Exit-2-TwoWay-Railroad]": "Railroad intersection with 3 exits each one with 2 two-way track.",
   "Assets.NAME[4-RoundExit-2-TwoWay-Railroad]": "4 Round Exit, 2 Two-Way Railroad",
-  "Assets.DESCRIPTION[4-RoundExit-2-TwoWay-Railroad]": "Railroad roudbound intersection with 4 exits each one with 2 two-way track",
+  "Assets.DESCRIPTION[4-RoundExit-2-TwoWay-Railroad]": "Railroad roudbound intersection with 4 exits each one with 2 two-way track.",
   "Assets.NAME[3-Exit-2-TwoWay-Railroad-Trumpet-Down]": "3 Exit, 2 Two-Way Railroad",
-  "Assets.DESCRIPTION[3-Exit-2-TwoWay-Railroad-Trumpet-Down]": "Railroad intersection with 3 exits each one with 2 two-way track and having a trumpet-style railroad underneath",
+  "Assets.DESCRIPTION[3-Exit-2-TwoWay-Railroad-Trumpet-Down]": "Railroad intersection with 3 exits each one with 2 two-way track and having a trumpet-style railroad underneath.",
   "Assets.NAME[3-Exit-2-TwoWay-Railroad-Double-Trumpet-Down]": "3 Exit, 2 Two-Way Railroad",
-  "Assets.DESCRIPTION[3-Exit-2-TwoWay-Railroad-Double-Trumpet-Down]": "Railroad intersection with 3 exits each one with 2 two-way track and having a double trumpet-style railroad underneath",
+  "Assets.DESCRIPTION[3-Exit-2-TwoWay-Railroad-Double-Trumpet-Down]": "Railroad intersection with 3 exits each one with 2 two-way track and having a double trumpet-style railroad underneath.",
   "Assets.NAME[5-Exit-Multileg-2-OneWay-Highway]": "5 Exit, 2 One-Way Highway",
-  "Assets.DESCRIPTION[5-Exit-Multileg-2-OneWay-Highway]": "Highway intersection with 3 exits multileg-style each one with 2 one-way high speed road"
+  "Assets.DESCRIPTION[5-Exit-Multileg-2-OneWay-Highway]": "Highway intersection with 3 exits multileg-style each one with 2 one-way high speed road. Each exit has six-lane highway road.",
+  "Assets.NAME[Six-Lane One-Way Highway]": "Six-Lane One-Way Highway",
+  "Assets.DESCRIPTION[Six-Lane One-Way Highway]": "Six-lane highway that allows traffic in one direction.",
+  "Assets.NAME[Eight-Lane One-Way Highway]": "Eight-Lane One-Way Highway",
+  "Assets.DESCRIPTION[Eight-Lane One-Way Highway]": "Eight-lane highway that allows traffic in one direction.",
+  "Assets.NAME[Ten-Lane One-Way Highway]": "Ten-Lane One-Way Highway",
+  "Assets.DESCRIPTION[Ten-Lane One-Way Highway]": "Ten-lane highway that allows traffic in one direction."
 }
 
 
