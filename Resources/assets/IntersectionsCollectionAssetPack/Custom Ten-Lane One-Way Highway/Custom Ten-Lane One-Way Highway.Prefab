@@ -1,7 +1,7 @@
 {
     "$id": 0,
     "$type": "0|Game.Prefabs.RoadPrefab, Game",
-    "name": "Ten-Lane One-Way Highway",
+    "name": "Highway oneway - 10 lanes",
     "active": true,
     "components": {
         "$id": 1,

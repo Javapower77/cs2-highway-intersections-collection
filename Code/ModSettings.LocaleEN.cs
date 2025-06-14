@@ -40,7 +40,7 @@ namespace IntersectionsCollection
             {
                 return new Dictionary<string, string>
                 {
-                    { _setting.GetSettingsLocaleID(), "Industries Extended" },
+                    { _setting.GetSettingsLocaleID(), "Intersections Collection" },
                     { GetLanguageNameLocaleID(), "English"},
                     { _setting.GetOptionTabLocaleID(ModSettings.AboutTab), "About" },
                     // Groups

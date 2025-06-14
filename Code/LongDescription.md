@@ -7,6 +7,9 @@ ROADS:
 * **Six-Lane One-Way Highway**: Six-lane highway that allows traffic in one direction
 * **Eight-Lane One-Way Highway**: Eight-lane highway that allows traffic in one direction
 * **Ten-Lane One-Way Highway**: Ten-lane highway that allows traffic in one direction
+* **Six-Lane Two-Way Highway**: Six-lane highway that allows traffic in both directions
+* **Eight-Lane Two-Way Highway**: Eight-lane highway that allows traffic in both directions
+* **Ten-Lane Two-Way Highway**: Ten-lane highway that allows traffic in both directions
 
 RAILROADS:
 * **3-Exit-2-TwoWay-Railroad**: Railroad intersection with 3 exits each one with 2 two-way track.
@@ -16,7 +19,12 @@ RAILROADS:
 * **4-RoundExit-2-TwoWay-Railroad**: Railroad roundbound intersection with 4 exits each one with 2 two-way track.
 
 HIGHWAYS:
-* **5-Exit-Multileg-2-OneWay-Highway**: Highway intersection with 3 exits multileg-style each one with 2 one-way high speed road
+* **4-Exit-2-TwoWay-Big-Highway**: Highway intersection with 4 exits each one with 2 one-way high speed road. Each exit has five-lane highway road.
+* **5-Exit-Multileg-2-OneWay-Highway**: Highway intersection with 3 exits multileg-style each one with 2 one-way high speed road.
+* **5-Exit-Partial-Cloverleaf-Assymetric-2-OneWay-Highway**: Highway partial cloverleaf assymetrical intersection with 5 exits. Exits are five-lane and six-lane highway roads.
+* **9-Exit-Star-2-OneWay-Highway**: Highway star-like intersection with 9 exits each one with 2 one-way high speed road. Each exit has eight-lane highway road.
+* **8-Exit-Star-2-OneWay-Highway**: Highway star-like intersection with 8 exits each one with 1 two-way high speed road. Each exit has ten-lane highway road both directions.
+* **8-Exit-Star-2-OneWay-Big-Highway**: Highway star-like intersection with 8 exits each one with 2 one-way high speed road. Each exit has two six-lane highways.
 
 ## NOTE
 This mod is not final version. Still keep working on it and make improvements.
