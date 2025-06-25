@@ -6928,7 +6928,7 @@
                 "name": "UIObject",
                 "active": true,
                 "m_Group": $fstrref:"UnityGUID:b1bd787ce189fa844aa6600ccee4c4ab",
-                "m_Priority": 913333,
+                "m_Priority": 920025,
                 "m_Icon": "coui://javapower-intersections-collection/8StarExit2OneWayHighway.png",
                 "m_IsDebugObject": false
             },

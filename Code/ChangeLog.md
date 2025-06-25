@@ -1,5 +1,4 @@
-## Patch 1.05
-* Added 3 new highway road with both directions.
-* Added more highway intersections.
-* Still not final version, working in adding more intersection assets.
+## Patch 1.06
+* That's all folks. Finished to add all intersections.
+* I will be looking for more interesections to add in this mod in a near future.
 	

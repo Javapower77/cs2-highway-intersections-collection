@@ -14,7 +14,7 @@
                 "name": "UIObject",
                 "active": true,
                 "m_Group": $fstrref:"UnityGUID:1239dee54354f354dbc47d2e5d5ead47",
-                "m_Priority": 913302,
+                "m_Priority": 920007,
                 "m_Icon": "coui://javapower-intersections-collection/3Exit2TwoWayRailroad.png",
                 "m_IsDebugObject": false
             },

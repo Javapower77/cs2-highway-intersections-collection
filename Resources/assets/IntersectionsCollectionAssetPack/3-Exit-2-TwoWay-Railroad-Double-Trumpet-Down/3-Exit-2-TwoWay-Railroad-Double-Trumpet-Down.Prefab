@@ -14,102 +14,59 @@
                 "name": "UIObject",
                 "active": true,
                 "m_Group": $fstrref:"UnityGUID:1239dee54354f354dbc47d2e5d5ead47",
-                "m_Priority": 913308,
+                "m_Priority": 920008,
                 "m_Icon": "coui://javapower-intersections-collection/3Exit2TwoWayRailroadDoubleTrumpetDown.png",
                 "m_IsDebugObject": false
             },
             {
-                "$id": 3,
-                "$type": "3|Game.Prefabs.ObjectSubNets, Game",
+                "$id": 4,
+                "$type": "4|Game.Prefabs.ObjectSubNets, Game",
                 "name": "",
                 "active": true,
                 "m_InvertWhen": 1,
                 "m_SubNets": {
-                    "$id": 4,
-                    "$type": "4|Game.Prefabs.ObjectSubNetInfo[], Game",
-                    "$rlength": 31,
+                    "$id": 5,
+                    "$type": "5|Game.Prefabs.ObjectSubNetInfo[], Game",
+                    "$rlength": 30,
                     "$rcontent": [
                         {
-                            "$id": 5,
-                            "$type": "5|Game.Prefabs.ObjectSubNetInfo, Game",
-                            "m_NetPrefab": $fstrref:"UnityGUID:5421f235787cfbc4b97b1585f520fd91",
+                            "$id": 6,
+                            "$type": "6|Game.Prefabs.ObjectSubNetInfo, Game",
+                            "m_NetPrefab": $fstrref:"UnityGUID:f0ddda895647fcd488bb49718382ddf5",
                             "m_BezierCurve": {
-                                "$type": "6|Colossal.Mathematics.Bezier4x3, Colossal.Mathematics",
+                                "$type": "7|Colossal.Mathematics.Bezier4x3, Colossal.Mathematics",
                                 "a": {
-                                    "$type": "7|Unity.Mathematics.float3, Unity.Mathematics",
-                                    "x": -0.503417969,
-                                    "y": 17.5,
-                                    "z": 60.16803
+                                    "$type": "8|Unity.Mathematics.float3, Unity.Mathematics",
+                                    "x": -119.736572,
+                                    "y": 9.944641,
+                                    "z": -17.2810287
                                 },
                                 "b": {
-                                    "$type": 7,
-                                    "x": -0.503417969,
+                                    "$type": 8,
+                                    "x": -143.736572,
                                     "y": 0,
-                                    "z": 44.010376
+                                    "z": -17.2810287
                                 },
                                 "c": {
-                                    "$type": 7,
-                                    "x": 6.04589844,
+                                    "$type": 8,
+                                    "x": -167.736572,
                                     "y": 0,
-                                    "z": 29.3825684
+                                    "z": -17.2810287
                                 },
                                 "d": {
-                                    "$type": 7,
-                                    "x": 16.6345215,
-                                    "y": 13.7500305,
-                                    "z": 18.7939758
+                                    "$type": 8,
+                                    "x": -191.736572,
+                                    "y": 10,
+                                    "z": -17.2810287
                                 }
                             },
                             "m_NodeIndex": {
-                                "$type": "8|Unity.Mathematics.int2, Unity.Mathematics",
+                                "$type": "9|Unity.Mathematics.int2, Unity.Mathematics",
                                 "x": 0,
                                 "y": 1
                             },
                             "m_ParentMesh": {
-                                "$type": 8,
-                                "x": 1,
-                                "y": 1
-                            },
-                            "m_Upgrades": null
-                        },
-                        {
-                            "$id": 6,
-                            "$type": 5,
-                            "m_NetPrefab": $fstrref:"UnityGUID:5421f235787cfbc4b97b1585f520fd91",
-                            "m_BezierCurve": {
-                                "$type": 6,
-                                "a": {
-                                    "$type": 7,
-                                    "x": 16.6345215,
-                                    "y": 13.7500305,
-                                    "z": 18.7939758
-                                },
-                                "b": {
-                                    "$type": 7,
-                                    "x": 27.2231445,
-                                    "y": 0,
-                                    "z": 8.205475
-                                },
-                                "c": {
-                                    "$type": 7,
-                                    "x": 41.8510742,
-                                    "y": 0,
-                                    "z": 1.656189
-                                },
-                                "d": {
-                                    "$type": 7,
-                                    "x": 58.0085449,
-                                    "y": 13.7500305,
-                                    "z": 1.65557861
-                                }
-                            },
-                            "m_NodeIndex": {
-                                "$type": 8,
-                                "x": 1,
-                                "y": 2
-                            },
-                            "m_ParentMesh": {
-                                "$type": 8,
+                                "$type": 9,
                                 "x": 1,
                                 "y": 1
                             },
@@ -117,42 +74,42 @@
                         },
                         {
                             "$id": 7,
-                            "$type": 5,
-                            "m_NetPrefab": $fstrref:"UnityGUID:5421f235787cfbc4b97b1585f520fd91",
+                            "$type": 6,
+                            "m_NetPrefab": $fstrref:"UnityGUID:f0ddda895647fcd488bb49718382ddf5",
                             "m_BezierCurve": {
-                                "$type": 6,
+                                "$type": 7,
                                 "a": {
-                                    "$type": 7,
-                                    "x": -82.6145,
-                                    "y": 14.9999695,
-                                    "z": -53.83197
+                                    "$type": 8,
+                                    "x": 196.263428,
+                                    "y": 10,
+                                    "z": -17.28109
                                 },
                                 "b": {
-                                    "$type": 7,
-                                    "x": -82.6145,
+                                    "$type": 8,
+                                    "x": 181.59668,
                                     "y": 0,
-                                    "z": -34.2327576
+                                    "z": -17.28109
                                 },
                                 "c": {
-                                    "$type": 7,
-                                    "x": -66.72583,
+                                    "$type": 8,
+                                    "x": 166.929932,
                                     "y": 0,
-                                    "z": -18.34491
+                                    "z": -17.28112
                                 },
                                 "d": {
-                                    "$type": 7,
-                                    "x": -47.12671,
+                                    "$type": 8,
+                                    "x": 152.263428,
                                     "y": 10,
-                                    "z": -18.34439
+                                    "z": -17.28112
                                 }
                             },
                             "m_NodeIndex": {
-                                "$type": 8,
-                                "x": 3,
-                                "y": 4
+                                "$type": 9,
+                                "x": 2,
+                                "y": 3
                             },
                             "m_ParentMesh": {
-                                "$type": 8,
+                                "$type": 9,
                                 "x": 1,
                                 "y": 1
                             },
@@ -160,42 +117,42 @@
                         },
                         {
                             "$id": 8,
-                            "$type": 5,
+                            "$type": 6,
                             "m_NetPrefab": $fstrref:"UnityGUID:f0ddda895647fcd488bb49718382ddf5",
                             "m_BezierCurve": {
-                                "$type": 6,
+                                "$type": 7,
                                 "a": {
-                                    "$type": 7,
-                                    "x": -18.5036621,
-                                    "y": 17.5,
-                                    "z": 40.40561
+                                    "$type": 8,
+                                    "x": -191.736572,
+                                    "y": 10,
+                                    "z": -1.28102875
                                 },
                                 "b": {
-                                    "$type": 7,
-                                    "x": -18.5036621,
+                                    "$type": 8,
+                                    "x": -167.736572,
                                     "y": 0,
-                                    "z": 56.28061
+                                    "z": -1.28102875
                                 },
                                 "c": {
-                                    "$type": 7,
-                                    "x": -18.5036621,
+                                    "$type": 8,
+                                    "x": -143.736572,
                                     "y": 0,
-                                    "z": 72.15561
+                                    "z": -1.28102875
                                 },
                                 "d": {
-                                    "$type": 7,
-                                    "x": -18.503418,
-                                    "y": 17.5,
-                                    "z": 88.03058
+                                    "$type": 8,
+                                    "x": -119.736572,
+                                    "y": 10,
+                                    "z": -1.28102875
                                 }
                             },
                             "m_NodeIndex": {
-                                "$type": 8,
-                                "x": 5,
-                                "y": 6
+                                "$type": 9,
+                                "x": 4,
+                                "y": 5
                             },
                             "m_ParentMesh": {
-                                "$type": 8,
+                                "$type": 9,
                                 "x": 1,
                                 "y": 1
                             },
@@ -203,42 +160,42 @@
                         },
                         {
                             "$id": 9,
-                            "$type": 5,
-                            "m_NetPrefab": $fstrref:"UnityGUID:f0ddda895647fcd488bb49718382ddf5",
+                            "$type": 6,
+                            "m_NetPrefab": $fstrref:"UnityGUID:5421f235787cfbc4b97b1585f520fd91",
                             "m_BezierCurve": {
-                                "$type": 6,
+                                "$type": 7,
                                 "a": {
-                                    "$type": 7,
-                                    "x": -2.503662,
-                                    "y": 17.5,
-                                    "z": 88.03058
+                                    "$type": 8,
+                                    "x": 0.313476563,
+                                    "y": 17.5255737,
+                                    "z": 59.23136
                                 },
                                 "b": {
-                                    "$type": 7,
-                                    "x": -2.503662,
+                                    "$type": 8,
+                                    "x": 0.313476563,
                                     "y": 0,
-                                    "z": 72.15558
+                                    "z": 43.0737076
                                 },
                                 "c": {
-                                    "$type": 7,
-                                    "x": -2.503662,
+                                    "$type": 8,
+                                    "x": 6.862793,
                                     "y": 0,
-                                    "z": 56.28058
+                                    "z": 28.4459
                                 },
                                 "d": {
-                                    "$type": 7,
-                                    "x": -2.503662,
-                                    "y": 17.5,
-                                    "z": 40.40558
+                                    "$type": 8,
+                                    "x": 17.451416,
+                                    "y": 13.75,
+                                    "z": 17.8573074
                                 }
                             },
                             "m_NodeIndex": {
-                                "$type": 8,
-                                "x": 7,
-                                "y": 0
+                                "$type": 9,
+                                "x": 6,
+                                "y": 7
                             },
                             "m_ParentMesh": {
-                                "$type": 8,
+                                "$type": 9,
                                 "x": 1,
                                 "y": 1
                             },
@@ -246,42 +203,42 @@
                         },
                         {
                             "$id": 10,
-                            "$type": 5,
+                            "$type": 6,
                             "m_NetPrefab": $fstrref:"UnityGUID:f0ddda895647fcd488bb49718382ddf5",
                             "m_BezierCurve": {
-                                "$type": 6,
+                                "$type": 7,
                                 "a": {
-                                    "$type": 7,
-                                    "x": -18.503418,
-                                    "y": 17.5,
-                                    "z": 88.03058
+                                    "$type": 8,
+                                    "x": 152.263428,
+                                    "y": 10,
+                                    "z": -17.28112
                                 },
                                 "b": {
-                                    "$type": 7,
-                                    "x": -18.503418,
+                                    "$type": 8,
+                                    "x": 129.596924,
                                     "y": 0,
-                                    "z": 103.905609
+                                    "z": -17.28112
                                 },
                                 "c": {
-                                    "$type": 7,
-                                    "x": -18.503418,
+                                    "$type": 8,
+                                    "x": 106.929932,
                                     "y": 0,
-                                    "z": 119.780609
+                                    "z": -17.28112
                                 },
                                 "d": {
-                                    "$type": 7,
-                                    "x": -18.503418,
-                                    "y": 17.5,
-                                    "z": 135.655609
+                                    "$type": 8,
+                                    "x": 84.26343,
+                                    "y": 9.94397,
+                                    "z": -17.28109
                                 }
                             },
                             "m_NodeIndex": {
-                                "$type": 8,
-                                "x": 6,
+                                "$type": 9,
+                                "x": 3,
                                 "y": 8
                             },
                             "m_ParentMesh": {
-                                "$type": 8,
+                                "$type": 9,
                                 "x": 1,
                                 "y": 1
                             },
@@ -289,42 +246,42 @@
                         },
                         {
                             "$id": 11,
-                            "$type": 5,
-                            "m_NetPrefab": $fstrref:"UnityGUID:f0ddda895647fcd488bb49718382ddf5",
+                            "$type": 6,
+                            "m_NetPrefab": $fstrref:"UnityGUID:5421f235787cfbc4b97b1585f520fd91",
                             "m_BezierCurve": {
-                                "$type": 6,
+                                "$type": 7,
                                 "a": {
-                                    "$type": 7,
-                                    "x": -2.503418,
-                                    "y": 17.5,
-                                    "z": 135.655609
+                                    "$type": 8,
+                                    "x": -48.7421875,
+                                    "y": 14.9682617,
+                                    "z": -87.82394
                                 },
                                 "b": {
-                                    "$type": 7,
-                                    "x": -2.503418,
+                                    "$type": 8,
+                                    "x": -66.99829,
                                     "y": 0,
-                                    "z": 119.780609
+                                    "z": -87.82394
                                 },
                                 "c": {
-                                    "$type": 7,
-                                    "x": -2.503418,
+                                    "$type": 8,
+                                    "x": -81.79761,
                                     "y": 0,
-                                    "z": 103.905609
+                                    "z": -73.02459
                                 },
                                 "d": {
-                                    "$type": 7,
-                                    "x": -2.503662,
-                                    "y": 17.5,
-                                    "z": 88.03058
+                                    "$type": 8,
+                                    "x": -81.79761,
+                                    "y": 14.9724121,
+                                    "z": -54.76864
                                 }
                             },
                             "m_NodeIndex": {
-                                "$type": 8,
+                                "$type": 9,
                                 "x": 9,
-                                "y": 7
+                                "y": 10
                             },
                             "m_ParentMesh": {
-                                "$type": 8,
+                                "$type": 9,
                                 "x": 1,
                                 "y": 1
                             },
@@ -332,42 +289,42 @@
                         },
                         {
                             "$id": 12,
-                            "$type": 5,
-                            "m_NetPrefab": $fstrref:"UnityGUID:f0ddda895647fcd488bb49718382ddf5",
+                            "$type": 6,
+                            "m_NetPrefab": $fstrref:"UnityGUID:5421f235787cfbc4b97b1585f520fd91",
                             "m_BezierCurve": {
-                                "$type": 6,
+                                "$type": 7,
                                 "a": {
-                                    "$type": 7,
-                                    "x": -120.553467,
-                                    "y": 10,
-                                    "z": -0.344360352
+                                    "$type": 8,
+                                    "x": 29.3132324,
+                                    "y": 15.0201416,
+                                    "z": -87.76864
                                 },
                                 "b": {
-                                    "$type": 7,
-                                    "x": -97.88696,
+                                    "$type": 8,
+                                    "x": 47.5385742,
                                     "y": 0,
-                                    "z": -0.344360352
+                                    "z": -87.76864
                                 },
                                 "c": {
-                                    "$type": 7,
-                                    "x": -75.2202148,
+                                    "$type": 8,
+                                    "x": 62.3132324,
                                     "y": 0,
-                                    "z": -0.344390869
+                                    "z": -72.99401
                                 },
                                 "d": {
-                                    "$type": 7,
-                                    "x": -52.55371,
-                                    "y": 10,
-                                    "z": -0.344390869
+                                    "$type": 8,
+                                    "x": 62.3132324,
+                                    "y": 15,
+                                    "z": -54.76864
                                 }
                             },
                             "m_NodeIndex": {
-                                "$type": 8,
-                                "x": 10,
-                                "y": 11
+                                "$type": 9,
+                                "x": 11,
+                                "y": 12
                             },
                             "m_ParentMesh": {
-                                "$type": 8,
+                                "$type": 9,
                                 "x": 1,
                                 "y": 1
                             },
@@ -375,42 +332,42 @@
                         },
                         {
                             "$id": 13,
-                            "$type": 5,
+                            "$type": 6,
                             "m_NetPrefab": $fstrref:"UnityGUID:f0ddda895647fcd488bb49718382ddf5",
                             "m_BezierCurve": {
-                                "$type": 6,
+                                "$type": 7,
                                 "a": {
-                                    "$type": 7,
-                                    "x": -52.5534668,
+                                    "$type": 8,
+                                    "x": -119.736572,
                                     "y": 10,
-                                    "z": -16.34439
+                                    "z": -1.28102875
                                 },
                                 "b": {
-                                    "$type": 7,
-                                    "x": -75.2202148,
+                                    "$type": 8,
+                                    "x": -97.07007,
                                     "y": 0,
-                                    "z": -16.34439
+                                    "z": -1.28102875
                                 },
                                 "c": {
-                                    "$type": 7,
-                                    "x": -97.88696,
+                                    "$type": 8,
+                                    "x": -74.40332,
                                     "y": 0,
-                                    "z": -16.34439
+                                    "z": -1.28105927
                                 },
                                 "d": {
-                                    "$type": 7,
-                                    "x": -120.553467,
-                                    "y": 10,
-                                    "z": -16.34436
+                                    "$type": 8,
+                                    "x": -51.7368164,
+                                    "y": 9.947632,
+                                    "z": -1.28105927
                                 }
                             },
                             "m_NodeIndex": {
-                                "$type": 8,
-                                "x": 4,
-                                "y": 12
+                                "$type": 9,
+                                "x": 5,
+                                "y": 13
                             },
                             "m_ParentMesh": {
-                                "$type": 8,
+                                "$type": 9,
                                 "x": 1,
                                 "y": 1
                             },
@@ -418,42 +375,42 @@
                         },
                         {
                             "$id": 14,
-                            "$type": 5,
+                            "$type": 6,
                             "m_NetPrefab": $fstrref:"UnityGUID:f0ddda895647fcd488bb49718382ddf5",
                             "m_BezierCurve": {
-                                "$type": 6,
+                                "$type": 7,
                                 "a": {
-                                    "$type": 7,
-                                    "x": 151.446533,
-                                    "y": 10,
-                                    "z": -16.3444519
+                                    "$type": 8,
+                                    "x": -17.6865234,
+                                    "y": 17.4596558,
+                                    "z": 87.09391
                                 },
                                 "b": {
-                                    "$type": 7,
-                                    "x": 128.780029,
+                                    "$type": 8,
+                                    "x": -17.6865234,
                                     "y": 0,
-                                    "z": -16.3444519
+                                    "z": 102.968941
                                 },
                                 "c": {
-                                    "$type": 7,
-                                    "x": 106.113037,
+                                    "$type": 8,
+                                    "x": -17.6865234,
                                     "y": 0,
-                                    "z": -16.3444519
+                                    "z": 118.843941
                                 },
                                 "d": {
-                                    "$type": 7,
-                                    "x": 83.44653,
-                                    "y": 10,
-                                    "z": -16.3444214
+                                    "$type": 8,
+                                    "x": -17.6865234,
+                                    "y": 17.5,
+                                    "z": 134.718933
                                 }
                             },
                             "m_NodeIndex": {
-                                "$type": 8,
-                                "x": 13,
-                                "y": 14
+                                "$type": 9,
+                                "x": 14,
+                                "y": 15
                             },
                             "m_ParentMesh": {
-                                "$type": 8,
+                                "$type": 9,
                                 "x": 1,
                                 "y": 1
                             },
@@ -461,42 +418,42 @@
                         },
                         {
                             "$id": 15,
-                            "$type": 5,
+                            "$type": 6,
                             "m_NetPrefab": $fstrref:"UnityGUID:f0ddda895647fcd488bb49718382ddf5",
                             "m_BezierCurve": {
-                                "$type": 6,
+                                "$type": 7,
                                 "a": {
-                                    "$type": 7,
-                                    "x": 83.44653,
+                                    "$type": 8,
+                                    "x": 84.26343,
                                     "y": 10,
-                                    "z": -0.3444214
+                                    "z": -1.28108978
                                 },
                                 "b": {
-                                    "$type": 7,
-                                    "x": 106.113037,
+                                    "$type": 8,
+                                    "x": 106.929932,
                                     "y": 0,
-                                    "z": -0.3444519
+                                    "z": -1.2811203
                                 },
                                 "c": {
-                                    "$type": 7,
-                                    "x": 128.779785,
+                                    "$type": 8,
+                                    "x": 129.59668,
                                     "y": 0,
-                                    "z": -0.3444519
+                                    "z": -1.2811203
                                 },
                                 "d": {
-                                    "$type": 7,
-                                    "x": 151.446533,
-                                    "y": 10,
-                                    "z": -0.3444519
+                                    "$type": 8,
+                                    "x": 152.263428,
+                                    "y": 10.02478,
+                                    "z": -1.2811203
                                 }
                             },
                             "m_NodeIndex": {
-                                "$type": 8,
-                                "x": 15,
-                                "y": 16
+                                "$type": 9,
+                                "x": 16,
+                                "y": 17
                             },
                             "m_ParentMesh": {
-                                "$type": 8,
+                                "$type": 9,
                                 "x": 1,
                                 "y": 1
                             },
@@ -504,42 +461,42 @@
                         },
                         {
                             "$id": 16,
-                            "$type": 5,
-                            "m_NetPrefab": $fstrref:"UnityGUID:5421f235787cfbc4b97b1585f520fd91",
+                            "$type": 6,
+                            "m_NetPrefab": $fstrref:"UnityGUID:f0ddda895647fcd488bb49718382ddf5",
                             "m_BezierCurve": {
-                                "$type": 6,
+                                "$type": 7,
                                 "a": {
-                                    "$type": 7,
-                                    "x": -4.503662,
-                                    "y": 17.50003,
-                                    "z": 10.16803
+                                    "$type": 8,
+                                    "x": 152.263428,
+                                    "y": 10.02478,
+                                    "z": -1.2811203
                                 },
                                 "b": {
-                                    "$type": 7,
-                                    "x": -4.503662,
+                                    "$type": 8,
+                                    "x": 166.929932,
                                     "y": 0,
-                                    "z": -11.1652832
+                                    "z": -1.2811203
                                 },
                                 "c": {
-                                    "$type": 7,
-                                    "x": -4.503662,
+                                    "$type": 8,
+                                    "x": 181.59668,
                                     "y": 0,
-                                    "z": -32.4986267
+                                    "z": -1.2811203
                                 },
                                 "d": {
-                                    "$type": 7,
-                                    "x": -4.503662,
-                                    "y": 15,
-                                    "z": -53.83197
+                                    "$type": 8,
+                                    "x": 196.263428,
+                                    "y": 10.0541992,
+                                    "z": -1.28108978
                                 }
                             },
                             "m_NodeIndex": {
-                                "$type": 8,
+                                "$type": 9,
                                 "x": 17,
                                 "y": 18
                             },
                             "m_ParentMesh": {
-                                "$type": 8,
+                                "$type": 9,
                                 "x": 1,
                                 "y": 1
                             },
@@ -547,42 +504,42 @@
                         },
                         {
                             "$id": 17,
-                            "$type": 5,
-                            "m_NetPrefab": $fstrref:"UnityGUID:5421f235787cfbc4b97b1585f520fd91",
+                            "$type": 6,
+                            "m_NetPrefab": $fstrref:"UnityGUID:f0ddda895647fcd488bb49718382ddf5",
                             "m_BezierCurve": {
-                                "$type": 6,
+                                "$type": 7,
                                 "a": {
-                                    "$type": 7,
-                                    "x": -16.5036621,
-                                    "y": 15,
-                                    "z": -53.83197
+                                    "$type": 8,
+                                    "x": -1.68652344,
+                                    "y": 17.5,
+                                    "z": 134.718933
                                 },
                                 "b": {
-                                    "$type": 7,
-                                    "x": -16.5036621,
+                                    "$type": 8,
+                                    "x": -1.68652344,
                                     "y": 0,
-                                    "z": -32.4986267
+                                    "z": 118.843941
                                 },
                                 "c": {
-                                    "$type": 7,
-                                    "x": -16.5036621,
+                                    "$type": 8,
+                                    "x": -1.68652344,
                                     "y": 0,
-                                    "z": -11.1652832
+                                    "z": 102.968941
                                 },
                                 "d": {
-                                    "$type": 7,
-                                    "x": -16.5036621,
-                                    "y": 15,
-                                    "z": 10.16803
+                                    "$type": 8,
+                                    "x": -1.68676758,
+                                    "y": 17.5,
+                                    "z": 87.09391
                                 }
                             },
                             "m_NodeIndex": {
-                                "$type": 8,
+                                "$type": 9,
                                 "x": 19,
                                 "y": 20
                             },
                             "m_ParentMesh": {
-                                "$type": 8,
+                                "$type": 9,
                                 "x": 1,
                                 "y": 1
                             },
@@ -590,42 +547,42 @@
                         },
                         {
                             "$id": 18,
-                            "$type": 5,
-                            "m_NetPrefab": $fstrref:"UnityGUID:5421f235787cfbc4b97b1585f520fd91",
+                            "$type": 6,
+                            "m_NetPrefab": $fstrref:"UnityGUID:f0ddda895647fcd488bb49718382ddf5",
                             "m_BezierCurve": {
-                                "$type": 6,
+                                "$type": 7,
                                 "a": {
-                                    "$type": 7,
-                                    "x": -16.5036621,
-                                    "y": 15,
-                                    "z": 10.16803
+                                    "$type": 8,
+                                    "x": -1.68676758,
+                                    "y": 17.5,
+                                    "z": 87.09391
                                 },
                                 "b": {
-                                    "$type": 7,
-                                    "x": -16.5036621,
+                                    "$type": 8,
+                                    "x": -1.68676758,
                                     "y": 0,
-                                    "z": 26.16803
+                                    "z": 71.21891
                                 },
                                 "c": {
-                                    "$type": 7,
-                                    "x": -16.5036621,
+                                    "$type": 8,
+                                    "x": -1.68676758,
                                     "y": 0,
-                                    "z": 42.16803
+                                    "z": 55.34391
                                 },
                                 "d": {
-                                    "$type": 7,
-                                    "x": -16.5036621,
-                                    "y": 17.5,
-                                    "z": 58.16803
+                                    "$type": 8,
+                                    "x": -1.68676758,
+                                    "y": 17.5255737,
+                                    "z": 39.46891
                                 }
                             },
                             "m_NodeIndex": {
-                                "$type": 8,
+                                "$type": 9,
                                 "x": 20,
-                                "y": 5
+                                "y": 6
                             },
                             "m_ParentMesh": {
-                                "$type": 8,
+                                "$type": 9,
                                 "x": 1,
                                 "y": 1
                             },
@@ -633,42 +590,42 @@
                         },
                         {
                             "$id": 19,
-                            "$type": 5,
-                            "m_NetPrefab": $fstrref:"UnityGUID:5421f235787cfbc4b97b1585f520fd91",
+                            "$type": 6,
+                            "m_NetPrefab": $fstrref:"UnityGUID:f0ddda895647fcd488bb49718382ddf5",
                             "m_BezierCurve": {
-                                "$type": 6,
+                                "$type": 7,
                                 "a": {
-                                    "$type": 7,
-                                    "x": -4.503662,
+                                    "$type": 8,
+                                    "x": -17.6867676,
                                     "y": 17.5,
-                                    "z": 58.16803
+                                    "z": 39.46894
                                 },
                                 "b": {
-                                    "$type": 7,
-                                    "x": -4.503662,
+                                    "$type": 8,
+                                    "x": -17.6867676,
                                     "y": 0,
-                                    "z": 42.16803
+                                    "z": 55.34394
                                 },
                                 "c": {
-                                    "$type": 7,
-                                    "x": -4.503662,
+                                    "$type": 8,
+                                    "x": -17.6867676,
                                     "y": 0,
-                                    "z": 26.16803
+                                    "z": 71.21894
                                 },
                                 "d": {
-                                    "$type": 7,
-                                    "x": -4.503662,
-                                    "y": 17.50003,
-                                    "z": 10.16803
+                                    "$type": 8,
+                                    "x": -17.6865234,
+                                    "y": 17.4596558,
+                                    "z": 87.09391
                                 }
                             },
                             "m_NodeIndex": {
-                                "$type": 8,
-                                "x": 0,
-                                "y": 17
+                                "$type": 9,
+                                "x": 21,
+                                "y": 14
                             },
                             "m_ParentMesh": {
-                                "$type": 8,
+                                "$type": 9,
                                 "x": 1,
                                 "y": 1
                             },
@@ -676,42 +633,42 @@
                         },
                         {
                             "$id": 20,
-                            "$type": 5,
-                            "m_NetPrefab": $fstrref:"UnityGUID:f0ddda895647fcd488bb49718382ddf5",
+                            "$type": 6,
+                            "m_NetPrefab": $fstrref:"UnityGUID:5421f235787cfbc4b97b1585f520fd91",
                             "m_BezierCurve": {
-                                "$type": 6,
+                                "$type": 7,
                                 "a": {
-                                    "$type": 7,
-                                    "x": -192.553467,
-                                    "y": 10,
-                                    "z": -0.344360352
+                                    "$type": 8,
+                                    "x": -37.89868,
+                                    "y": 13.7158813,
+                                    "z": 17.12107
                                 },
                                 "b": {
-                                    "$type": 7,
-                                    "x": -168.553467,
+                                    "$type": 8,
+                                    "x": -27.2565918,
                                     "y": 0,
-                                    "z": -0.344360352
+                                    "z": 27.2977676
                                 },
                                 "c": {
-                                    "$type": 7,
-                                    "x": -144.553467,
+                                    "$type": 8,
+                                    "x": -20.3935547,
                                     "y": 0,
-                                    "z": -0.344360352
+                                    "z": 41.42588
                                 },
                                 "d": {
-                                    "$type": 7,
-                                    "x": -120.553467,
-                                    "y": 10,
-                                    "z": -0.344360352
+                                    "$type": 8,
+                                    "x": -19.6867676,
+                                    "y": 17.5,
+                                    "z": 57.23139
                                 }
                             },
                             "m_NodeIndex": {
-                                "$type": 8,
-                                "x": 21,
-                                "y": 10
+                                "$type": 9,
+                                "x": 22,
+                                "y": 21
                             },
                             "m_ParentMesh": {
-                                "$type": 8,
+                                "$type": 9,
                                 "x": 1,
                                 "y": 1
                             },
@@ -719,42 +676,42 @@
                         },
                         {
                             "$id": 21,
-                            "$type": 5,
+                            "$type": 6,
                             "m_NetPrefab": $fstrref:"UnityGUID:5421f235787cfbc4b97b1585f520fd91",
                             "m_BezierCurve": {
-                                "$type": 6,
+                                "$type": 7,
                                 "a": {
-                                    "$type": 7,
-                                    "x": 28.4963379,
-                                    "y": 15,
-                                    "z": -86.83197
+                                    "$type": 8,
+                                    "x": -78.78223,
+                                    "y": 9.947632,
+                                    "z": 0.718940735
                                 },
                                 "b": {
-                                    "$type": 7,
-                                    "x": 46.72168,
+                                    "$type": 8,
+                                    "x": -62.9609375,
                                     "y": 0,
-                                    "z": -86.83197
+                                    "z": 0.718940735
                                 },
                                 "c": {
-                                    "$type": 7,
-                                    "x": 61.4963379,
+                                    "$type": 8,
+                                    "x": -48.5402832,
                                     "y": 0,
-                                    "z": -72.05734
+                                    "z": 6.944313
                                 },
                                 "d": {
-                                    "$type": 7,
-                                    "x": 61.4963379,
-                                    "y": 15,
-                                    "z": -53.83197
+                                    "$type": 8,
+                                    "x": -37.89868,
+                                    "y": 13.7158813,
+                                    "z": 17.12107
                                 }
                             },
                             "m_NodeIndex": {
-                                "$type": 8,
-                                "x": 22,
-                                "y": 23
+                                "$type": 9,
+                                "x": 13,
+                                "y": 22
                             },
                             "m_ParentMesh": {
-                                "$type": 8,
+                                "$type": 9,
                                 "x": 1,
                                 "y": 1
                             },
@@ -762,42 +719,42 @@
                         },
                         {
                             "$id": 22,
-                            "$type": 5,
+                            "$type": 6,
                             "m_NetPrefab": $fstrref:"UnityGUID:f0ddda895647fcd488bb49718382ddf5",
                             "m_BezierCurve": {
-                                "$type": 6,
+                                "$type": 7,
                                 "a": {
-                                    "$type": 7,
-                                    "x": 195.446533,
-                                    "y": 10,
-                                    "z": -16.3444214
+                                    "$type": 8,
+                                    "x": -48.4532471,
+                                    "y": 10.2462769,
+                                    "z": -17.2810459
                                 },
                                 "b": {
-                                    "$type": 7,
-                                    "x": 180.779785,
+                                    "$type": 8,
+                                    "x": -69.56445,
                                     "y": 0,
-                                    "z": -16.3444214
+                                    "z": -17.28104
                                 },
                                 "c": {
-                                    "$type": 7,
-                                    "x": 166.113037,
+                                    "$type": 8,
+                                    "x": -90.67554,
                                     "y": 0,
-                                    "z": -16.3444519
+                                    "z": -17.2810364
                                 },
                                 "d": {
-                                    "$type": 7,
-                                    "x": 151.446533,
-                                    "y": 10,
-                                    "z": -16.3444519
+                                    "$type": 8,
+                                    "x": -111.786621,
+                                    "y": 9.944641,
+                                    "z": -17.2810287
                                 }
                             },
                             "m_NodeIndex": {
-                                "$type": 8,
-                                "x": 24,
-                                "y": 13
+                                "$type": 9,
+                                "x": 23,
+                                "y": 0
                             },
                             "m_ParentMesh": {
-                                "$type": 8,
+                                "$type": 9,
                                 "x": 1,
                                 "y": 1
                             },
@@ -805,42 +762,42 @@
                         },
                         {
                             "$id": 23,
-                            "$type": 5,
+                            "$type": 6,
                             "m_NetPrefab": $fstrref:"UnityGUID:5421f235787cfbc4b97b1585f520fd91",
                             "m_BezierCurve": {
-                                "$type": 6,
+                                "$type": 7,
                                 "a": {
-                                    "$type": 7,
-                                    "x": -4.503662,
+                                    "$type": 8,
+                                    "x": 62.26111,
                                     "y": 15,
-                                    "z": -53.83197
+                                    "z": -56.6386757
                                 },
                                 "b": {
-                                    "$type": 7,
-                                    "x": -4.503662,
+                                    "$type": 8,
+                                    "x": 62.29077,
                                     "y": 0,
-                                    "z": -72.05734
+                                    "z": -39.80855
                                 },
                                 "c": {
-                                    "$type": 7,
-                                    "x": 10.2709961,
+                                    "$type": 8,
+                                    "x": 52.4388428,
                                     "y": 0,
-                                    "z": -86.83197
+                                    "z": -24.07214
                                 },
                                 "d": {
-                                    "$type": 7,
-                                    "x": 28.4963379,
-                                    "y": 15,
-                                    "z": -86.83197
+                                    "$type": 8,
+                                    "x": 33.00537,
+                                    "y": 10.0749512,
+                                    "z": -21.4509583
                                 }
                             },
                             "m_NodeIndex": {
-                                "$type": 8,
-                                "x": 18,
-                                "y": 22
+                                "$type": 9,
+                                "x": 12,
+                                "y": 24
                             },
                             "m_ParentMesh": {
-                                "$type": 8,
+                                "$type": 9,
                                 "x": 1,
                                 "y": 1
                             },
@@ -848,42 +805,42 @@
                         },
                         {
                             "$id": 24,
-                            "$type": 5,
-                            "m_NetPrefab": $fstrref:"UnityGUID:f0ddda895647fcd488bb49718382ddf5",
+                            "$type": 6,
+                            "m_NetPrefab": $fstrref:"UnityGUID:5421f235787cfbc4b97b1585f520fd91",
                             "m_BezierCurve": {
-                                "$type": 6,
+                                "$type": 7,
                                 "a": {
-                                    "$type": 7,
-                                    "x": -120.553467,
-                                    "y": 10,
-                                    "z": -16.34436
+                                    "$type": 8,
+                                    "x": 29.3616943,
+                                    "y": 15.0201416,
+                                    "z": -87.82393
                                 },
                                 "b": {
-                                    "$type": 7,
-                                    "x": -144.553467,
+                                    "$type": 8,
+                                    "x": 5.005005,
                                     "y": 0,
-                                    "z": -16.34436
+                                    "z": -87.82394
                                 },
                                 "c": {
-                                    "$type": 7,
-                                    "x": -168.553467,
+                                    "$type": 8,
+                                    "x": -3.68640137,
                                     "y": 0,
-                                    "z": -16.34436
+                                    "z": -57.025135
                                 },
                                 "d": {
-                                    "$type": 7,
-                                    "x": -192.553467,
-                                    "y": 10,
-                                    "z": -16.34436
+                                    "$type": 8,
+                                    "x": -3.68664551,
+                                    "y": 19.99878,
+                                    "z": -32.668396
                                 }
                             },
                             "m_NodeIndex": {
-                                "$type": 8,
-                                "x": 12,
+                                "$type": 9,
+                                "x": 11,
                                 "y": 25
                             },
                             "m_ParentMesh": {
-                                "$type": 8,
+                                "$type": 9,
                                 "x": 1,
                                 "y": 1
                             },
@@ -891,42 +848,42 @@
                         },
                         {
                             "$id": 25,
-                            "$type": 5,
-                            "m_NetPrefab": $fstrref:"UnityGUID:f0ddda895647fcd488bb49718382ddf5",
+                            "$type": 6,
+                            "m_NetPrefab": $fstrref:"UnityGUID:5421f235787cfbc4b97b1585f520fd91",
                             "m_BezierCurve": {
-                                "$type": 6,
+                                "$type": 7,
                                 "a": {
-                                    "$type": 7,
-                                    "x": 151.446533,
-                                    "y": 10,
-                                    "z": -0.3444519
+                                    "$type": 8,
+                                    "x": -3.68676758,
+                                    "y": 17.5255737,
+                                    "z": 49.83854
                                 },
                                 "b": {
-                                    "$type": 7,
-                                    "x": 166.113037,
+                                    "$type": 8,
+                                    "x": -3.68688965,
                                     "y": 0,
-                                    "z": -0.3444519
+                                    "z": 36.51503
                                 },
                                 "c": {
-                                    "$type": 7,
-                                    "x": 180.779785,
+                                    "$type": 8,
+                                    "x": -3.68713379,
                                     "y": 0,
-                                    "z": -0.3444519
+                                    "z": 23.1915131
                                 },
                                 "d": {
-                                    "$type": 7,
-                                    "x": 195.446533,
-                                    "y": 9.99996948,
-                                    "z": -0.3444214
+                                    "$type": 8,
+                                    "x": -3.68725586,
+                                    "y": 20,
+                                    "z": 9.868004
                                 }
                             },
                             "m_NodeIndex": {
-                                "$type": 8,
-                                "x": 16,
+                                "$type": 9,
+                                "x": 6,
                                 "y": 26
                             },
                             "m_ParentMesh": {
-                                "$type": 8,
+                                "$type": 9,
                                 "x": 1,
                                 "y": 1
                             },
@@ -934,42 +891,42 @@
                         },
                         {
                             "$id": 26,
-                            "$type": 5,
+                            "$type": 6,
                             "m_NetPrefab": $fstrref:"UnityGUID:5421f235787cfbc4b97b1585f520fd91",
                             "m_BezierCurve": {
-                                "$type": 6,
+                                "$type": 7,
                                 "a": {
-                                    "$type": 7,
-                                    "x": -16.5036621,
-                                    "y": 15,
-                                    "z": -53.83197
+                                    "$type": 8,
+                                    "x": 15.4328613,
+                                    "y": 13.75,
+                                    "z": 19.9788857
                                 },
                                 "b": {
-                                    "$type": 7,
-                                    "x": -16.5036621,
+                                    "$type": 8,
+                                    "x": 28.7651367,
                                     "y": 0,
-                                    "z": -72.08789
+                                    "z": 6.54361725
                                 },
                                 "c": {
-                                    "$type": 7,
-                                    "x": -31.3029785,
+                                    "$type": 8,
+                                    "x": 56.18701,
                                     "y": 0,
-                                    "z": -86.88727
+                                    "z": 3.32001114
                                 },
                                 "d": {
-                                    "$type": 7,
-                                    "x": -49.559082,
-                                    "y": 14.9999695,
-                                    "z": -86.88727
+                                    "$type": 8,
+                                    "x": 78.31348,
+                                    "y": 10,
+                                    "z": 0.718917847
                                 }
                             },
                             "m_NodeIndex": {
-                                "$type": 8,
-                                "x": 19,
-                                "y": 27
+                                "$type": 9,
+                                "x": 7,
+                                "y": 16
                             },
                             "m_ParentMesh": {
-                                "$type": 8,
+                                "$type": 9,
                                 "x": 1,
                                 "y": 1
                             },
@@ -977,42 +934,42 @@
                         },
                         {
                             "$id": 27,
-                            "$type": 5,
+                            "$type": 6,
                             "m_NetPrefab": $fstrref:"UnityGUID:5421f235787cfbc4b97b1585f520fd91",
                             "m_BezierCurve": {
-                                "$type": 6,
+                                "$type": 7,
                                 "a": {
-                                    "$type": 7,
-                                    "x": -49.559082,
-                                    "y": 14.9999695,
-                                    "z": -86.88727
+                                    "$type": 8,
+                                    "x": -81.85242,
+                                    "y": 14.9724121,
+                                    "z": -54.76864
                                 },
                                 "b": {
-                                    "$type": 7,
-                                    "x": -67.8151855,
+                                    "$type": 8,
+                                    "x": -82.80408,
                                     "y": 0,
-                                    "z": -86.88727
+                                    "z": -37.8845978
                                 },
                                 "c": {
-                                    "$type": 7,
-                                    "x": -82.6145,
+                                    "$type": 8,
+                                    "x": -73.43823,
                                     "y": 0,
-                                    "z": -72.08792
+                                    "z": -31.3270264
                                 },
                                 "d": {
-                                    "$type": 7,
-                                    "x": -82.6145,
-                                    "y": 14.9999695,
-                                    "z": -53.83197
+                                    "$type": 8,
+                                    "x": -57.56067,
+                                    "y": 10.2462769,
+                                    "z": -21.94973
                                 }
                             },
                             "m_NodeIndex": {
-                                "$type": 8,
-                                "x": 27,
-                                "y": 3
+                                "$type": 9,
+                                "x": 10,
+                                "y": 23
                             },
                             "m_ParentMesh": {
-                                "$type": 8,
+                                "$type": 9,
                                 "x": 1,
                                 "y": 1
                             },
@@ -1020,42 +977,42 @@
                         },
                         {
                             "$id": 28,
-                            "$type": 5,
+                            "$type": 6,
                             "m_NetPrefab": $fstrref:"UnityGUID:5421f235787cfbc4b97b1585f520fd91",
                             "m_BezierCurve": {
-                                "$type": 6,
+                                "$type": 7,
                                 "a": {
-                                    "$type": 7,
-                                    "x": -79.59912,
-                                    "y": 10,
-                                    "z": 1.65560913
+                                    "$type": 8,
+                                    "x": -15.4984131,
+                                    "y": 19.9645386,
+                                    "z": 7.69643
                                 },
                                 "b": {
-                                    "$type": 7,
-                                    "x": -63.777832,
+                                    "$type": 8,
+                                    "x": -15.5611572,
                                     "y": 0,
-                                    "z": 1.65560913
+                                    "z": 17.9184875
                                 },
                                 "c": {
-                                    "$type": 7,
-                                    "x": -49.3571777,
+                                    "$type": 8,
+                                    "x": -15.6240234,
                                     "y": 0,
-                                    "z": 7.88098145
+                                    "z": 28.1405411
                                 },
                                 "d": {
-                                    "$type": 7,
-                                    "x": -38.7155762,
-                                    "y": 13.7500305,
-                                    "z": 18.05774
+                                    "$type": 8,
+                                    "x": -15.6867676,
+                                    "y": 17.5,
+                                    "z": 38.3625946
                                 }
                             },
                             "m_NodeIndex": {
-                                "$type": 8,
-                                "x": 11,
-                                "y": 28
+                                "$type": 9,
+                                "x": 27,
+                                "y": 21
                             },
                             "m_ParentMesh": {
-                                "$type": 8,
+                                "$type": 9,
                                 "x": 1,
                                 "y": 1
                             },
@@ -1063,42 +1020,42 @@
                         },
                         {
                             "$id": 29,
-                            "$type": 5,
+                            "$type": 6,
                             "m_NetPrefab": $fstrref:"UnityGUID:5421f235787cfbc4b97b1585f520fd91",
                             "m_BezierCurve": {
-                                "$type": 6,
+                                "$type": 7,
                                 "a": {
-                                    "$type": 7,
-                                    "x": -38.7155762,
-                                    "y": 13.7500305,
-                                    "z": 18.05774
+                                    "$type": 8,
+                                    "x": 4.31323242,
+                                    "y": 10.7388306,
+                                    "z": -3.281067
                                 },
                                 "b": {
-                                    "$type": 7,
-                                    "x": -28.0734863,
+                                    "$type": 8,
+                                    "x": -20.3535156,
                                     "y": 0,
-                                    "z": 28.234436
+                                    "z": -3.281063
                                 },
                                 "c": {
-                                    "$type": 7,
-                                    "x": -21.21045,
+                                    "$type": 8,
+                                    "x": -45.02014,
                                     "y": 0,
-                                    "z": 42.36255
+                                    "z": -3.28105927
                                 },
                                 "d": {
-                                    "$type": 7,
-                                    "x": -20.5036621,
-                                    "y": 17.5,
-                                    "z": 58.16806
+                                    "$type": 8,
+                                    "x": -69.68677,
+                                    "y": 9.947632,
+                                    "z": -3.28105545
                                 }
                             },
                             "m_NodeIndex": {
-                                "$type": 8,
+                                "$type": 9,
                                 "x": 28,
-                                "y": 5
+                                "y": 13
                             },
                             "m_ParentMesh": {
-                                "$type": 8,
+                                "$type": 9,
                                 "x": 1,
                                 "y": 1
                             },
@@ -1106,42 +1063,42 @@
                         },
                         {
                             "$id": 30,
-                            "$type": 5,
+                            "$type": 6,
                             "m_NetPrefab": $fstrref:"UnityGUID:5421f235787cfbc4b97b1585f520fd91",
                             "m_BezierCurve": {
-                                "$type": 6,
+                                "$type": 7,
                                 "a": {
-                                    "$type": 7,
-                                    "x": -70.50366,
+                                    "$type": 8,
+                                    "x": 78.31348,
                                     "y": 10,
-                                    "z": -2.34439087
+                                    "z": -3.28108215
                                 },
                                 "b": {
-                                    "$type": 7,
-                                    "x": -50.170166,
+                                    "$type": 8,
+                                    "x": 53.64673,
                                     "y": 0,
-                                    "z": -2.34439087
+                                    "z": -3.28107834
                                 },
                                 "c": {
-                                    "$type": 7,
-                                    "x": -29.8369141,
+                                    "$type": 8,
+                                    "x": 28.97998,
                                     "y": 0,
-                                    "z": -2.34439087
+                                    "z": -3.28107452
                                 },
                                 "d": {
-                                    "$type": 7,
-                                    "x": -9.503662,
-                                    "y": 9.994537,
-                                    "z": -2.34442139
+                                    "$type": 8,
+                                    "x": 4.31323242,
+                                    "y": 10.7388306,
+                                    "z": -3.281067
                                 }
                             },
                             "m_NodeIndex": {
-                                "$type": 8,
-                                "x": 11,
-                                "y": 29
+                                "$type": 9,
+                                "x": 16,
+                                "y": 28
                             },
                             "m_ParentMesh": {
-                                "$type": 8,
+                                "$type": 9,
                                 "x": 1,
                                 "y": 1
                             },
@@ -1149,42 +1106,42 @@
                         },
                         {
                             "$id": 31,
-                            "$type": 5,
+                            "$type": 6,
                             "m_NetPrefab": $fstrref:"UnityGUID:5421f235787cfbc4b97b1585f520fd91",
                             "m_BezierCurve": {
-                                "$type": 6,
+                                "$type": 7,
                                 "a": {
-                                    "$type": 7,
-                                    "x": -9.503662,
-                                    "y": 9.994537,
-                                    "z": -2.34442139
+                                    "$type": 8,
+                                    "x": -42.74707,
+                                    "y": 14.9682617,
+                                    "z": -87.82394
                                 },
                                 "b": {
-                                    "$type": 7,
-                                    "x": 10.829834,
+                                    "$type": 8,
+                                    "x": -20.4205322,
                                     "y": 0,
-                                    "z": -2.34442139
+                                    "z": -87.82393
                                 },
                                 "c": {
-                                    "$type": 7,
-                                    "x": 31.1630859,
+                                    "$type": 8,
+                                    "x": -17.0961914,
                                     "y": 0,
-                                    "z": -2.34442139
+                                    "z": -54.3255157
                                 },
                                 "d": {
-                                    "$type": 7,
-                                    "x": 51.4963379,
-                                    "y": 13.7500305,
-                                    "z": -2.34442139
+                                    "$type": 8,
+                                    "x": -15.6867676,
+                                    "y": 19.9779663,
+                                    "z": -32.0435371
                                 }
                             },
                             "m_NodeIndex": {
-                                "$type": 8,
-                                "x": 29,
-                                "y": 2
+                                "$type": 9,
+                                "x": 9,
+                                "y": 29
                             },
                             "m_ParentMesh": {
-                                "$type": 8,
+                                "$type": 9,
                                 "x": 1,
                                 "y": 1
                             },
@@ -1192,42 +1149,42 @@
                         },
                         {
                             "$id": 32,
-                            "$type": 5,
+                            "$type": 6,
                             "m_NetPrefab": $fstrref:"UnityGUID:5421f235787cfbc4b97b1585f520fd91",
                             "m_BezierCurve": {
-                                "$type": 6,
+                                "$type": 7,
                                 "a": {
-                                    "$type": 7,
-                                    "x": 61.4963379,
-                                    "y": 15,
-                                    "z": -53.83197
+                                    "$type": 8,
+                                    "x": -3.68676758,
+                                    "y": 19.99878,
+                                    "z": -24.9059086
                                 },
                                 "b": {
-                                    "$type": 7,
-                                    "x": 61.4963379,
+                                    "$type": 8,
+                                    "x": -3.68688965,
                                     "y": 0,
-                                    "z": -34.2327576
+                                    "z": -14.1142311
                                 },
                                 "c": {
-                                    "$type": 7,
-                                    "x": 45.607666,
+                                    "$type": 8,
+                                    "x": -3.68713379,
                                     "y": 0,
-                                    "z": -18.34494
+                                    "z": -3.32255554
                                 },
                                 "d": {
-                                    "$type": 7,
-                                    "x": 26.0085449,
-                                    "y": 15,
-                                    "z": -18.3444214
+                                    "$type": 8,
+                                    "x": -3.68725586,
+                                    "y": 20,
+                                    "z": 7.46912
                                 }
                             },
                             "m_NodeIndex": {
-                                "$type": 8,
-                                "x": 23,
-                                "y": 30
+                                "$type": 9,
+                                "x": 25,
+                                "y": 26
                             },
                             "m_ParentMesh": {
-                                "$type": 8,
+                                "$type": 9,
                                 "x": 1,
                                 "y": 1
                             },
@@ -1235,42 +1192,42 @@
                         },
                         {
                             "$id": 33,
-                            "$type": 5,
-                            "m_NetPrefab": $fstrref:"UnityGUID:f0ddda895647fcd488bb49718382ddf5",
+                            "$type": 6,
+                            "m_NetPrefab": $fstrref:"UnityGUID:5421f235787cfbc4b97b1585f520fd91",
                             "m_BezierCurve": {
-                                "$type": 6,
+                                "$type": 7,
                                 "a": {
-                                    "$type": 7,
-                                    "x": 83.44653,
-                                    "y": 10,
-                                    "z": -16.3444214
+                                    "$type": 8,
+                                    "x": -15.6867676,
+                                    "y": 19.9779663,
+                                    "z": -24.906044
                                 },
                                 "b": {
-                                    "$type": 7,
-                                    "x": 64.78003,
+                                    "$type": 8,
+                                    "x": -15.6240234,
                                     "y": 0,
-                                    "z": -16.3444214
+                                    "z": -14.0385513
                                 },
                                 "c": {
-                                    "$type": 7,
-                                    "x": 46.1130371,
+                                    "$type": 8,
+                                    "x": -15.5611572,
                                     "y": 0,
-                                    "z": -16.3444214
+                                    "z": -3.17105865
                                 },
                                 "d": {
-                                    "$type": 7,
-                                    "x": 27.4465332,
-                                    "y": 15,
-                                    "z": -16.3444214
+                                    "$type": 8,
+                                    "x": -15.4984131,
+                                    "y": 19.9645386,
+                                    "z": 7.69643
                                 }
                             },
                             "m_NodeIndex": {
-                                "$type": 8,
-                                "x": 14,
-                                "y": 30
+                                "$type": 9,
+                                "x": 29,
+                                "y": 27
                             },
                             "m_ParentMesh": {
-                                "$type": 8,
+                                "$type": 9,
                                 "x": 1,
                                 "y": 1
                             },
@@ -1278,42 +1235,42 @@
                         },
                         {
                             "$id": 34,
-                            "$type": 5,
+                            "$type": 6,
                             "m_NetPrefab": $fstrref:"UnityGUID:f0ddda895647fcd488bb49718382ddf5",
                             "m_BezierCurve": {
-                                "$type": 6,
+                                "$type": 7,
                                 "a": {
-                                    "$type": 7,
-                                    "x": 27.4465332,
-                                    "y": 15,
-                                    "z": -16.3444214
+                                    "$type": 8,
+                                    "x": 34.4968262,
+                                    "y": 10.0749512,
+                                    "z": -17.28107
                                 },
                                 "b": {
-                                    "$type": 7,
-                                    "x": 0.7800293,
+                                    "$type": 8,
+                                    "x": 9.73584,
                                     "y": 0,
-                                    "z": -16.3444214
+                                    "z": -17.2810669
                                 },
                                 "c": {
-                                    "$type": 7,
-                                    "x": -25.8869629,
+                                    "$type": 8,
+                                    "x": -19.4088135,
                                     "y": 0,
-                                    "z": -16.34439
+                                    "z": -17.2810535
                                 },
                                 "d": {
-                                    "$type": 7,
-                                    "x": -52.5534668,
-                                    "y": 10,
-                                    "z": -16.34439
+                                    "$type": 8,
+                                    "x": -44.16992,
+                                    "y": 10.2462769,
+                                    "z": -17.2810478
                                 }
                             },
                             "m_NodeIndex": {
-                                "$type": 8,
-                                "x": 30,
-                                "y": 4
+                                "$type": 9,
+                                "x": 24,
+                                "y": 23
                             },
                             "m_ParentMesh": {
-                                "$type": 8,
+                                "$type": 9,
                                 "x": 1,
                                 "y": 1
                             },
@@ -1321,42 +1278,42 @@
                         },
                         {
                             "$id": 35,
-                            "$type": 5,
+                            "$type": 6,
                             "m_NetPrefab": $fstrref:"UnityGUID:f0ddda895647fcd488bb49718382ddf5",
                             "m_BezierCurve": {
-                                "$type": 6,
+                                "$type": 7,
                                 "a": {
-                                    "$type": 7,
-                                    "x": 59.44629,
-                                    "y": 13.7500305,
-                                    "z": -0.3444214
+                                    "$type": 8,
+                                    "x": 78.21338,
+                                    "y": 9.94397,
+                                    "z": -17.2810822
                                 },
                                 "b": {
-                                    "$type": 7,
-                                    "x": 67.44653,
+                                    "$type": 8,
+                                    "x": 63.6412354,
                                     "y": 0,
-                                    "z": -0.3444214
+                                    "z": -17.2810764
                                 },
                                 "c": {
-                                    "$type": 7,
-                                    "x": 75.44653,
+                                    "$type": 8,
+                                    "x": 49.06909,
                                     "y": 0,
-                                    "z": -0.3444214
+                                    "z": -17.2810745
                                 },
                                 "d": {
-                                    "$type": 7,
-                                    "x": 83.44653,
-                                    "y": 10,
-                                    "z": -0.3444214
+                                    "$type": 8,
+                                    "x": 34.4968262,
+                                    "y": 10.0749512,
+                                    "z": -17.28107
                                 }
                             },
                             "m_NodeIndex": {
-                                "$type": 8,
-                                "x": 2,
-                                "y": 15
+                                "$type": 9,
+                                "x": 8,
+                                "y": 24
                             },
                             "m_ParentMesh": {
-                                "$type": 8,
+                                "$type": 9,
                                 "x": 1,
                                 "y": 1
                             },
@@ -1366,12 +1323,12 @@
                 }
             },
             {
-                "$id": 36,
+                "$id": 56,
                 "$type": "9|Game.Prefabs.Unlockable, Game",
                 "name": "Unlockable",
                 "active": true,
                 "m_RequireAll": {
-                    "$id": 37,
+                    "$id": 57,
                     "$type": "10|Game.Prefabs.PrefabBase[], Game",
                     "$rlength": 1,
                     "$rcontent": [
@@ -1379,7 +1336,7 @@
                     ]
                 },
                 "m_RequireAny": {
-                    "$id": 38,
+                    "$id": 58,
                     "$type": 10,
                     "$rlength": 0,
                     "$rcontent": [
@@ -1388,12 +1345,12 @@
                 "m_IgnoreDependencies": true
             },
             {
-                "$id": 39,
+                "$id": 59,
                 "$type": "11|Game.Prefabs.EditorAssetCategoryOverride, Game",
                 "name": "EditorAssetCategoryOverride",
                 "active": true,
                 "m_IncludeCategories": {
-                    "$id": 40,
+                    "$id": 60,
                     "$type": "12|System.String[], mscorlib",
                     "$rlength": 1,
                     "$rcontent": [
@@ -1401,7 +1358,7 @@
                     ]
                 },
                 "m_ExcludeCategories": {
-                    "$id": 41,
+                    "$id": 61,
                     "$type": 12,
                     "$rlength": 0,
                     "$rcontent": [
@@ -1409,12 +1366,12 @@
                 }
             },
             {
-                "$id": 42,
+                "$id": 62,
                 "$type": "13|Game.Prefabs.AssetPackItem, Game",
                 "name": "AssetPackItem",
                 "active": true,
                 "m_Packs": {
-                    "$id": 43,
+                    "$id": 63,
                     "$type": "14|Game.Prefabs.AssetPackPrefab[], Game",
                     "$rlength": 1,
                     "$rcontent": [
@@ -1426,6 +1383,6 @@
     },
     "m_Width": 1,
     "m_Depth": 1,
-    "m_ConstructionCost": 0,
-    "m_UpKeepCost": 250
+    "m_ConstructionCost": 190500,
+    "m_UpKeepCost": 2500
 }

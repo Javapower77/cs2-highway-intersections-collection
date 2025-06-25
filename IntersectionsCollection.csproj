@@ -24,9 +24,9 @@
 		<AllowUnsafeBlocks>true</AllowUnsafeBlocks>
 
 		<!-- Mod information -->
-		<AssemblyVersion>1.05.0</AssemblyVersion>
-		<FileVersion>1.05.0</FileVersion>
-		<Version>1.05.0</Version>
+		<AssemblyVersion>1.06.0</AssemblyVersion>
+		<FileVersion>1.06.0</FileVersion>
+		<Version>1.06.0</Version>
 		<NeutralLanguage>en</NeutralLanguage>
 		<RepositoryUrl>https://github.com/Javapower77/cs2-highway-intersections-collection</RepositoryUrl>
 		<PackageProjectUrl>https://github.com/Javapower77/cs2-highway-intersections-collection</PackageProjectUrl>
