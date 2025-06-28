@@ -2135,7 +2135,7 @@
                 "name": "UIObject",
                 "active": true,
                 "m_Group": $fstrref:"UnityGUID:b1bd787ce189fa844aa6600ccee4c4ab",
-                "m_Priority": 920003,
+                "m_Priority": 930002,
                 "m_Icon": "coui://javapower-intersections-collection/3Exit2OneWayDoubleTrumpetDownHighway.png",
                 "m_IsDebugObject": false
             },

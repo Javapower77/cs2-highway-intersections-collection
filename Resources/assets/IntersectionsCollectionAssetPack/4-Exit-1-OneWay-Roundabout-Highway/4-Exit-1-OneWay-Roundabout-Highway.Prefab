@@ -6,7 +6,7 @@
     "components": {
         "$id": 1,
         "$type": "1|System.Collections.Generic.List`1[[Game.Prefabs.ComponentBase, Game]], mscorlib",
-        "$rlength": 6,
+        "$rlength": 5,
         "$rcontent": [
             {
                 "$id": 2,
@@ -1417,7 +1417,7 @@
                 "name": "UIObject",
                 "active": true,
                 "m_Group": $fstrref:"UnityGUID:b1bd787ce189fa844aa6600ccee4c4ab",
-                "m_Priority": 920013,
+                "m_Priority": 940001,
                 "m_Icon": "coui://javapower-intersections-collection/4Exit1OneWayRoundaboutHighway.png",
                 "m_IsDebugObject": false
             },

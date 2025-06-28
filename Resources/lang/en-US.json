@@ -31,8 +31,8 @@
   "Assets.DESCRIPTION[Highway twoway - 8 lanes]": "Eight-lane highway that allows traffic in both directions.",
   "Assets.NAME[Highway twoway - 10 lanes]": "Ten-Lane Two-Way Highway",
   "Assets.DESCRIPTION[Highway twoway - 10 lanes]": "Ten-lane highway that allows traffic in both directions.",
-  "Assets.NAME[8-Exit-Star-2-OneWay-Highway]": "8 Exit, 1 Two-Way Highway",
-  "Assets.DESCRIPTION[8-Exit-Star-2-OneWay-Highway]": "Highway star-like intersection with 8 exits each one with 1 two-way high speed road. Each exit has ten-lane highway road both directions.",
+  "Assets.NAME[8-Exit-Star-2-OneWay-Highway]": "8 Exit, 2 Two-Way Highway",
+  "Assets.DESCRIPTION[8-Exit-Star-2-OneWay-Highway]": "Highway star-like intersection with 8 exits each one with 2 two-way high speed road. Each exit has ten-lane highway road both directions.",
   "Assets.NAME[8-Exit-Star-2-OneWay-Big-Highway]": "8 Exit, 2 One-Way Big Highway",
   "Assets.DESCRIPTION[8-Exit-Star-2-OneWay-Big-Highway]": "Highway star-like intersection with 8 exits each one with 2 one-way high speed road. Each exit has two six-lane highways.",
   "Assets.NAME[3-Exit-2-OneWay-Highway]": "3 Exit, 2 Two-Way Highway",
@@ -66,8 +66,9 @@
   "Assets.NAME[3-Exit-3-OneWay-Double-Roundabout-Highway]": "3 Exit, 3 One-Way Double Roundabout Highway",
   "Assets.DESCRIPTION[3-Exit-3-OneWay-Double-Roundabout-Highway]": "Double roundabout highway with 3 exits, both roundabout are separeted and one above the other.",
   "Assets.NAME[3-Exit-Arc-Up-2-OneWay-Double-Trumpet-Highway]": "3 Exit Arc-Up, 2 One-Way Double Trumpet Highway",
-  "Assets.DESCRIPTION[3-Exit-Arc-Up-2-OneWay-Double-Trumpet-Highway]": "Highway with upside arc-style intersection with 3 exits each one with 2 five-lane one-way highway and having a double downside trumpet-style highway."
+  "Assets.DESCRIPTION[3-Exit-Arc-Up-2-OneWay-Double-Trumpet-Highway]": "Highway with upside arc-style intersection with 3 exits each one with 2 five-lane one-way highway and having a double downside trumpet-style highway.",
+  "Assets.NAME[4-Exit-2-OneWay-Diverging-Diamond-2U-Highway]": "4 Exit, 2 One-Way Diverging Diamond 2U Highway",
+  "Assets.DESCRIPTION[4-Exit-2-OneWay-Diverging-Diamond-2U-Highway]": "Diverging diamond interchange highway with 4 exits each one with 2 two-lane one-way road.",
+  "Assets.NAME[4-Exit-2-OneWay-Diverging-Diamond-6U-Highway]": "4 Exit, 2 One-Way Diverging Diamond 6U Highway",
+  "Assets.DESCRIPTION[4-Exit-2-OneWay-Diverging-Diamond-6U-Highway]": "Diverging diamond interchange highway with 4 exits each one with 2 six-lane one-way road."
 }
-
-
-

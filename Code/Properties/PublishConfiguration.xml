@@ -41,7 +41,9 @@ HIGHWAYS:
 * **4-Exit-2-OneWay-Full-Diamond-Big-Highway**: Full diamond interchange big highway with 4 exits each one with eight-lane one-way highway.
 * **4-Exit-1-OneWay-Roundabout-Highway**: Roundabout highway with 4 exits with different highway one-way road lanes.
 * **4-Exit-2-OneWay-Trumpet-Up-Highway**: Trumpet-style highway with 4 exits, two with five-lane one-way highway and two with three-lane one-way highway.
-* **4-Exit-2-OneWay-Highway-Variation**: Highway intersection with 4 exits, two five-lane one-way and the other two six-lane one-way highway roads.* 
+* **4-Exit-2-OneWay-Highway-Variation**: Highway intersection with 4 exits, two five-lane one-way and the other two six-lane one-way highway roads.
+* **4-Exit-2-OneWay-Diverging-Diamond-2U-Highway**: Diverging diamond interchange highway with 4 exits each one with 2 two-lane one-way road.
+* **4-Exit-2-OneWay-Diverging-Diamond-6U-Highway**: Diverging diamond interchange highway with 4 exits each one with 2 six-lane one-way road.
 * **5-Exit-Multileg-2-OneWay-Highway**: Highway intersection with 3 exits multileg-style each one with 2 one-way high speed road.
 * **5-Exit-Partial-Cloverleaf-Assymetric-2-OneWay-Highway**: Highway partial cloverleaf assymetrical intersection with 5 exits. Exits are five-lane and six-lane highway roads.
 * **8-Exit-Star-2-OneWay-Highway**: Highway star-like intersection with 8 exits each one with 1 two-way high speed road. Each exit has ten-lane highway road both directions.
@@ -62,6 +64,7 @@ I would like to thanks a lot for the patience on answering my question in order 
 * yenyang
 * Tigon Ologdring
 * Pro Best Cities
+* jk142
 ... to mention some of them!
 
 ## DISCLAIMER
@@ -79,7 +82,7 @@ I would like to thanks a lot for the patience on answering my question in order 
   <Screenshot Value="Code/Properties/Previews/screenshot9.jpg" />
   <Screenshot Value="Code/Properties/Previews/screenshot10.jpg" />
   <Tag Value="Code Mod" />
-  <ModVersion Value="1.06.0" />
+  <ModVersion Value="1.07.0" />
   <GameVersion Value="1.3.3f1" />
   <!-- Asset Packs Manager -->
   <Dependency Id="78903" />
@@ -87,8 +90,10 @@ I would like to thanks a lot for the patience on answering my question in order 
   <Dependency Id="75426" />
   <!-- Asset Icon Library -->
   <Dependency Id="79634" />
-  <ChangeLog>## Patch 1.06
-* That's all folks. Finished to add all intersections.
+  <ChangeLog>## Patch 1.07
+* Fixed an issue of bad array length. Reported by TrevorHall and samlee860407. Thanks!
+* Fixed road direction for several interesctions. Reported by rzzirrah. Thanks.
+* Add a new Divergent Diamond intersection requested by Buster355.
 * I will be looking for more interesections to add in this mod in a near future.</ChangeLog>
   <ExternalLink Type="discord" Url="https://discord.gg/UkKAfRqfCn" />
   <ExternalLink Type="github" Url="https://github.com/Javapower77/cs2-highway-intersections-collection" />

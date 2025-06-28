@@ -2479,7 +2479,7 @@
                 "name": "UIObject",
                 "active": true,
                 "m_Group": $fstrref:"UnityGUID:b1bd787ce189fa844aa6600ccee4c4ab",
-                "m_Priority": 920010,
+                "m_Priority": 930006,
                 "m_Icon": "coui://javapower-intersections-collection/3Exit3OneWayDoubleRoundaboutHighway.png",
                 "m_IsDebugObject": false
             },

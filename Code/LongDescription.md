@@ -37,7 +37,9 @@ HIGHWAYS:
 * **4-Exit-2-OneWay-Full-Diamond-Big-Highway**: Full diamond interchange big highway with 4 exits each one with eight-lane one-way highway.
 * **4-Exit-1-OneWay-Roundabout-Highway**: Roundabout highway with 4 exits with different highway one-way road lanes.
 * **4-Exit-2-OneWay-Trumpet-Up-Highway**: Trumpet-style highway with 4 exits, two with five-lane one-way highway and two with three-lane one-way highway.
-* **4-Exit-2-OneWay-Highway-Variation**: Highway intersection with 4 exits, two five-lane one-way and the other two six-lane one-way highway roads.* 
+* **4-Exit-2-OneWay-Highway-Variation**: Highway intersection with 4 exits, two five-lane one-way and the other two six-lane one-way highway roads.
+* **4-Exit-2-OneWay-Diverging-Diamond-2U-Highway**: Diverging diamond interchange highway with 4 exits each one with 2 two-lane one-way road.
+* **4-Exit-2-OneWay-Diverging-Diamond-6U-Highway**: Diverging diamond interchange highway with 4 exits each one with 2 six-lane one-way road.
 * **5-Exit-Multileg-2-OneWay-Highway**: Highway intersection with 3 exits multileg-style each one with 2 one-way high speed road.
 * **5-Exit-Partial-Cloverleaf-Assymetric-2-OneWay-Highway**: Highway partial cloverleaf assymetrical intersection with 5 exits. Exits are five-lane and six-lane highway roads.
 * **8-Exit-Star-2-OneWay-Highway**: Highway star-like intersection with 8 exits each one with 1 two-way high speed road. Each exit has ten-lane highway road both directions.
@@ -58,6 +60,7 @@ I would like to thanks a lot for the patience on answering my question in order 
 * yenyang
 * Tigon Ologdring
 * Pro Best Cities
+* jk142
 ... to mention some of them!
 
 ## DISCLAIMER

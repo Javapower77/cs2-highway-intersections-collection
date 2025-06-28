@@ -14,7 +14,7 @@
                 "name": "UIObject",
                 "active": true,
                 "m_Group": $fstrref:"UnityGUID:b1bd787ce189fa844aa6600ccee4c4ab",
-                "m_Priority": 920022,
+                "m_Priority": 950001,
                 "m_Icon": "coui://javapower-intersections-collection/5ExitMultileg2OneWayHighway.png",
                 "m_IsDebugObject": false
             },

@@ -14,7 +14,7 @@
                 "name": "UIObject",
                 "active": true,
                 "m_Group": $fstrref:"UnityGUID:1239dee54354f354dbc47d2e5d5ead47",
-                "m_Priority": 920021,
+                "m_Priority": 940010,
                 "m_Icon": "coui://javapower-intersections-collection/4RoundExit2TwoWayRailroad.png",
                 "m_IsDebugObject": false
             },
