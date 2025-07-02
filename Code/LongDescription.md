@@ -10,6 +10,12 @@ ROADS:
 * **Six-Lane Two-Way Highway**: Six-lane highway that allows traffic in both directions
 * **Eight-Lane Two-Way Highway**: Eight-lane highway that allows traffic in both directions
 * **Ten-Lane Two-Way Highway**: Ten-lane highway that allows traffic in both directions
+* **Seven-Lane One-Way Highway**: Seven-lane highway that allows traffic in one direction.
+* **Twelve-Lane Two-Way Highway**: Twelve-lane highway that allows traffic in both directions.
+* **Eight-Lane Asymmetric Highway**: Three lanes going one way and five lanes in the other. Works well specially for merging and deceleration lanes connecting to ramps.
+* **Nine-Lane Asymmetric Highway**: Three lanes going one way and six lanes in the other. Works well specially for merging and deceleration lanes connecting to ramps.
+* **Ten-Lane Asymmetric Highway**: Three lanes going one way and seven lanes in the other. Works well specially for merging and deceleration lanes connecting to ramps.
+* **Thirteen-Lane Asymmetric Highway**: Six lanes going one way and seven lanes in the other. Works well specially for merging and deceleration lanes connecting to ramps.
 
 RAILROADS:
 * **3-Exit-2-TwoWay-Railroad**: Railroad intersection with 3 exits each one with 2 two-way track.
@@ -40,6 +46,7 @@ HIGHWAYS:
 * **4-Exit-2-OneWay-Highway-Variation**: Highway intersection with 4 exits, two five-lane one-way and the other two six-lane one-way highway roads.
 * **4-Exit-2-OneWay-Diverging-Diamond-2U-Highway**: Diverging diamond interchange highway with 4 exits each one with 2 two-lane one-way road.
 * **4-Exit-2-OneWay-Diverging-Diamond-6U-Highway**: Diverging diamond interchange highway with 4 exits each one with 2 six-lane one-way road.
+* **4-Exit-2-OneWay-Highway-Variation-A**: Highway intersection with 4 exits, each one with two six-lane one-way highway roads. Orginal Author: lil tajine.
 * **5-Exit-Multileg-2-OneWay-Highway**: Highway intersection with 3 exits multileg-style each one with 2 one-way high speed road.
 * **5-Exit-Partial-Cloverleaf-Assymetric-2-OneWay-Highway**: Highway partial cloverleaf assymetrical intersection with 5 exits. Exits are five-lane and six-lane highway roads.
 * **8-Exit-Star-2-OneWay-Highway**: Highway star-like intersection with 8 exits each one with 1 two-way high speed road. Each exit has ten-lane highway road both directions.
@@ -59,7 +66,6 @@ I would like to thanks a lot for the patience on answering my question in order 
 * TDW
 * yenyang
 * Tigon Ologdring
-* Pro Best Cities
 * jk142
 ... to mention some of them!
 

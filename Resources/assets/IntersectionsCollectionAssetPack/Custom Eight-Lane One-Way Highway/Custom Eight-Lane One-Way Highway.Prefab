@@ -195,7 +195,7 @@
                 "name": "UIObject",
                 "active": true,
                 "m_Group": $fstrref:"UnityGUID:01a34e6844b1060408f630cf940091d2",
-                "m_Priority": 999999,
+                "m_Priority": 999702,
                 "m_Icon": "coui://javapower-intersections-collection/HighwayOneway8lanes.png",
                 "m_IsDebugObject": false
             },

@@ -1,6 +1,7 @@
-## Patch 1.07
-* Fixed an issue of bad array length. Reported by TrevorHall and samlee860407. Thanks!
-* Fixed road direction for several interesctions. Reported by rzzirrah. Thanks.
-* Add a new Divergent Diamond intersection requested by Buster355.
+## Patch 1.08
+* Added 4 assymetric highway roads.
+* Added seven-lane one-way highway road.
+* Added twelve-lane two-way highway road.
+* 4 new Intersections of 4 exits made by lil tajine and imported as an assets in this mod.
 * I will be looking for more interesections to add in this mod in a near future.
 	
