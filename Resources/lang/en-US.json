@@ -88,5 +88,8 @@
   "Assets.NAME[4-Exit-2-OneWay-Highway-Variation-B]": "4 Exit, 2 Two-Way Highway Variation B",
   "Assets.DESCRIPTION[4-Exit-2-OneWay-Highway-Variation-B]": "Highway intersection with 4 exits, each one with two six-lane one-way highway roads. [Orginal Author: lil tajine]",
   "Assets.NAME[4-Exit-2-OneWay-Highway-Variation-C]": "4 Exit, 2 Two-Way Highway Variation C",
-  "Assets.DESCRIPTION[4-Exit-2-OneWay-Highway-Variation-C]": "Highway intersection with 4 exits, each one with two six-lane one-way highway roads. [Orginal Author: lil tajine]"
+  "Assets.DESCRIPTION[4-Exit-2-OneWay-Highway-Variation-C]": "Highway intersection with 4 exits, each one with two six-lane one-way highway roads. [Orginal Author: lil tajine]",
+  "Assets.NAME[X-Exit-2-OneWay-Highway-InterCity]": "Multiple Exit, 2 Two-Way Highway Intercity",
+  "Assets.DESCRIPTION[X-Exit-2-OneWay-Highway-InterCity]": "Highway intersection with serveral exits that let traffic get in and get out from the highway to and from cities. [Orginal Author: lil tajine]"
+
 }

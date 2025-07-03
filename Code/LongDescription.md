@@ -46,12 +46,13 @@ HIGHWAYS:
 * **4-Exit-2-OneWay-Highway-Variation**: Highway intersection with 4 exits, two five-lane one-way and the other two six-lane one-way highway roads.
 * **4-Exit-2-OneWay-Diverging-Diamond-2U-Highway**: Diverging diamond interchange highway with 4 exits each one with 2 two-lane one-way road.
 * **4-Exit-2-OneWay-Diverging-Diamond-6U-Highway**: Diverging diamond interchange highway with 4 exits each one with 2 six-lane one-way road.
-* **4-Exit-2-OneWay-Highway-Variation-A**: Highway intersection with 4 exits, each one with two six-lane one-way highway roads. Orginal Author: lil tajine.
+* **4-Exit-2-OneWay-Highway-Variation-A,B&C**: Highway intersection with 4 exits, each one with two six-lane one-way highway roads. Orginal Author: lil tajine.
 * **5-Exit-Multileg-2-OneWay-Highway**: Highway intersection with 3 exits multileg-style each one with 2 one-way high speed road.
 * **5-Exit-Partial-Cloverleaf-Assymetric-2-OneWay-Highway**: Highway partial cloverleaf assymetrical intersection with 5 exits. Exits are five-lane and six-lane highway roads.
 * **8-Exit-Star-2-OneWay-Highway**: Highway star-like intersection with 8 exits each one with 1 two-way high speed road. Each exit has ten-lane highway road both directions.
 * **8-Exit-Star-2-OneWay-Big-Highway**: Highway star-like intersection with 8 exits each one with 2 one-way high speed road. Each exit has two six-lane highways.
 * **9-Exit-Star-2-OneWay-Highway**: Highway star-like intersection with 9 exits each one with 2 one-way high speed road. Each exit has eight-lane highway road.
+* **X-Exit-2-OneWay-Highway-InterCity**: Highway intersection with serveral exits that let traffic get in and get out from the highway to and from cities. Orginal Author: lil tajine.
 
 ## NOTE
 This mod is not final version. Still keep working on it and make improvements.
